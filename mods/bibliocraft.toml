@@ -1,9 +1,9 @@
 name = "BiblioCraft"
-filename = "BiblioCraft[v2.4.5][MC1.12.2].jar"
+filename = "BiblioCraftv2.4.5MC1.12.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2574/880/BiblioCraft[v2.4.5][MC1.12.2].jar"
+url = "https://edge.forgecdn.net/files/2574/880/BiblioCraft%5Bv2.4.5%5D%5BMC1.12.2%5D.jar"
 hash-format = "murmur2"
 hash = "1344933848"
 
