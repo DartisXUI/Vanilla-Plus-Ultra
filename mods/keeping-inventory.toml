@@ -1,0 +1,14 @@
+name = "Keeping Inventory"
+filename = "KeepingInventory-1.12.2-2.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2510/58/KeepingInventory-1.12.2-2.4.jar"
+hash-format = "murmur2"
+hash = "3431223842"
+
+[update]
+[update.curseforge]
+file-id = 2510058
+project-id = 231775
+release-channel = "beta"

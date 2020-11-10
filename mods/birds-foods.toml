@@ -1,0 +1,14 @@
+name = "Bird's Foods"
+filename = "birdsfoods-1.12 - 3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2517/254/birdsfoods-1.12 - 3.1.jar"
+hash-format = "murmur2"
+hash = "181199411"
+
+[update]
+[update.curseforge]
+file-id = 2517254
+project-id = 255255
+release-channel = "beta"

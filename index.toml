@@ -11,8 +11,68 @@ hash = "f46bc720591a1e228a53feeb7728330f932060a977cc65ca316801d0fea43d73"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.toml"
+hash = "90988adcc0a460e62fd6b45dd1834b368d25ce60303976822166098102548aa8"
+metafile = true
+
+[[files]]
+file = "mods/applecore.toml"
+hash = "6b5300bd726b6fea57880571ad72ec7be0024564305f3313c5049385c3bdd467"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "1717e089fb5b41114e99afa8709b6e8415ebff1192a3fbd70dbee90c05429b21"
+metafile = true
+
+[[files]]
+file = "mods/armory-expansion.toml"
+hash = "25fb5b33d8c33a5ef34c7e9190d523445f34ac4134398092f1e3a8081e0201d1"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.toml"
 hash = "4e444b7a69c2b68ae168caed1a4d345bfa96cfe8671c6206895698cd93c5167e"
+metafile = true
+
+[[files]]
+file = "mods/bad-wither-no-cookie-reloaded.toml"
+hash = "555590e66abca7b489a422560f7b0df2079501a81e37936badcde2574b3b97c1"
+metafile = true
+
+[[files]]
+file = "mods/baubles.toml"
+hash = "c753e5872ef229ff88ad5e1e0aeee78a8db2084017acee1bf9a45c4807037250"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.toml"
+hash = "c998bc50b834b145fb64944b88d5b406c73b778462ac4cb91d569bcaaa37ccba"
+metafile = true
+
+[[files]]
+file = "mods/bibliocraft.toml"
+hash = "457b6d6c4934bf014429a4fe9a809ad260660399d469661d6478f013073da754"
+metafile = true
+
+[[files]]
+file = "mods/birds-foods.toml"
+hash = "87a5570c7a9399f2f277530eb7fe7b13a3633dcd8c2821628ef8581554ec0af1"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.toml"
+hash = "7c7d4da458ab082669f11975bad5fda167877dbabf8775eef22a8e230424831a"
+metafile = true
+
+[[files]]
+file = "mods/building-gadgets.toml"
+hash = "900bb218406480dc270fe0f42f1f0e66c52ae5a85d8934c404d10ce64e803354"
+metafile = true
+
+[[files]]
+file = "mods/chisel.toml"
+hash = "52435fe963476b68456801103ac73a53d31de8af03df7d3c1fc069c88dda9627"
 metafile = true
 
 [[files]]
@@ -31,8 +91,93 @@ hash = "addeba42e92d45f278fa79b94f3b359b5f9ce69eee7438ef7480aa3764bda0e1"
 metafile = true
 
 [[files]]
+file = "mods/constructs-armory.toml"
+hash = "2a58eb247d4f9ff7de6bee2f81d072338fd0b96803294bf887696e81815e68eb"
+metafile = true
+
+[[files]]
+file = "mods/controlling.toml"
+hash = "9e95e85e1901f88818d6c18d82d68ea4342206979ad861f884299e241ad4b195"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.toml"
+hash = "43fce4a945472b03284a0c8559d7215775d81a2dc2c01d711ec9a1825232eca7"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.toml"
+hash = "a572379bd1f3f014e991b1747e7792783ad9b73df30e4e622e3f3188c83ed671"
+metafile = true
+
+[[files]]
+file = "mods/ctm.toml"
+hash = "103696c67e5b9720d25ea953b8d3abc25c12db84da61a6e9b7d59232dfed1697"
+metafile = true
+
+[[files]]
 file = "mods/cucumber.toml"
 hash = "2e88ef2da54b7607e1bacd21360ea45e5608d1cdc55367518743c3245d6fe083"
+metafile = true
+
+[[files]]
+file = "mods/curio.toml"
+hash = "4a5f0491c0aa1588354e8af736cde4ac7f8523b9a46db5b216f99bc030373811"
+metafile = true
+
+[[files]]
+file = "mods/drawbridges.toml"
+hash = "2cf85ddc192066e25c3a2fa84fc5c9f9689c267b24e38374729e13ebd1873416"
+metafile = true
+
+[[files]]
+file = "mods/enchanting-plus.toml"
+hash = "f1e43fb577ba10120291ac41de673f645274685d725594ff5da8c8a97dcf25ef"
+metafile = true
+
+[[files]]
+file = "mods/ender-io.toml"
+hash = "1740501b1a5bb50cb3a87adb11d9d8fd33816f153855d22436ab851d6b99db6f"
+metafile = true
+
+[[files]]
+file = "mods/ender-storage-1-8.toml"
+hash = "62a88b7e34ac364b52f892b8d7fafd2ab51c1ed138010f39dbf50e26bfafc272"
+metafile = true
+
+[[files]]
+file = "mods/endercore.toml"
+hash = "29fab396bfc16400541918c2afa8d504da54046639e6555d8f52dbd02de72923"
+metafile = true
+
+[[files]]
+file = "mods/fast-leaf-decay.toml"
+hash = "8239fcc9487edacf660e8a72b2fb9b9a2757c77df232a0ff409e5a8d9dadcc77"
+metafile = true
+
+[[files]]
+file = "mods/foamfix-optimization-mod.toml"
+hash = "0473430ad8d5f380cf514741a4231acbc2a6b73cd0226c9a275e2efe36c89f94"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library.toml"
+hash = "016bc703be18098ed8b1f4ff840f3aa4b97154a2bcbae48ca53d3bc28e2f588a"
+metafile = true
+
+[[files]]
+file = "mods/ftb-utilities.toml"
+hash = "ec535d3258260e18d5bced9db44021bdca31f3b1c64af1a5516c3987c0a6cd1c"
+metafile = true
+
+[[files]]
+file = "mods/heroesexpansion.toml"
+hash = "d6687790e4c3768893cfbd88736531ec03a65b619eaa8967461454c0d83c7abd"
+metafile = true
+
+[[files]]
+file = "mods/hunting-dimension.toml"
+hash = "53a3f6f48bc74f9557a021514f8f852d888c6e50db52448b66643b8d50485cde"
 metafile = true
 
 [[files]]
@@ -41,13 +186,48 @@ hash = "dea07cb4d9537ebfff1e22bfb82395c3b2850fbb0a5394aee05b906f5afbe5e4"
 metafile = true
 
 [[files]]
+file = "mods/inventory-tweaks.toml"
+hash = "085c60da6895469f92cf5c1785269236261c61f7b01f9fd2a262f4a858a9b639"
+metafile = true
+
+[[files]]
 file = "mods/ivtoolkit.toml"
 hash = "27ac888fb6b020e5f89cb155c4c019da1d751b45c52c6dabb6b5c0acd1ba9123"
 metafile = true
 
 [[files]]
+file = "mods/jei-integration.toml"
+hash = "5d1f363d9a6daed54fd0d8b30a5951f4d63ecba4e3617a5e442b87d535f42130"
+metafile = true
+
+[[files]]
 file = "mods/jei.toml"
 hash = "5dc4edd68c74875cc28caeccf9ab0f08377371e60d4127a24464c317eee7d16b"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.toml"
+hash = "551cc046516b696edb073bed4f852d9943da48b384d67a7b840ac02421d2446e"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-calculation.toml"
+hash = "e4a1b5fdab31e71ea9646a6379f2bb08857fa72fc3b5675665e40b54512e756a"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.toml"
+hash = "763a688ee77550d2405ef3af861598059fa6b5dfd2f2cb2df6c405953363cee5"
+metafile = true
+
+[[files]]
+file = "mods/keeping-inventory.toml"
+hash = "2a1e6a4830da4149b6f4e4eb72e9666096265a9de666829dad59b51b2bcf4795"
+metafile = true
+
+[[files]]
+file = "mods/lucraft-core.toml"
+hash = "e5914feb065f72f027e1fefac0d8fbd184f23eb3e6d6d0260cf28e76ab5d76e8"
 metafile = true
 
 [[files]]
@@ -58,6 +238,21 @@ metafile = true
 [[files]]
 file = "mods/mcjtylib.toml"
 hash = "6eada4314fd82fe43f23670ce92041ba0887d5a1bf050fd84a01e62f6d3cc135"
+metafile = true
+
+[[files]]
+file = "mods/moar-tinkers.toml"
+hash = "1ba0b1be4650525f02f57547556ecf37a86c7c6872569ae61acba4aad241859d"
+metafile = true
+
+[[files]]
+file = "mods/mod-name-tooltip.toml"
+hash = "ada354d23031dc6f90da2e792efcacc7fbfb5d7e0be712e5085355c7f9c18a58"
+metafile = true
+
+[[files]]
+file = "mods/more-overlays.toml"
+hash = "7f916424670df861b8e52c219d2b6d7709121561400529fb5586804bb8156006"
 metafile = true
 
 [[files]]

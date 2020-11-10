@@ -1,0 +1,14 @@
+name = "HeroesExpansion"
+filename = "HeroesExpansion-1.12.2-1.3.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2762/537/HeroesExpansion-1.12.2-1.3.5.jar"
+hash-format = "murmur2"
+hash = "251567389"
+
+[update]
+[update.curseforge]
+file-id = 2762537
+project-id = 267462
+release-channel = "beta"

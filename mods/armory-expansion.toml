@@ -1,0 +1,14 @@
+name = "Armory Expansion"
+filename = "armoryexpansion-2.0.0-alpha.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2925/155/armoryexpansion-2.0.0-alpha.jar"
+hash-format = "murmur2"
+hash = "3077282103"
+
+[update]
+[update.curseforge]
+file-id = 2925155
+project-id = 293602
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Drawbridges"
+filename = "drawbridges-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2689/438/drawbridges-1.1.jar"
+hash-format = "murmur2"
+hash = "1370060517"
+
+[update]
+[update.curseforge]
+file-id = 2689438
+project-id = 297212
+release-channel = "beta"

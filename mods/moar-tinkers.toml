@@ -1,0 +1,14 @@
+name = "Moar Tinkers"
+filename = "moartinkers-0.6.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2579/934/moartinkers-0.6.0.jar"
+hash-format = "murmur2"
+hash = "883535324"
+
+[update]
+[update.curseforge]
+file-id = 2579934
+project-id = 263624
+release-channel = "beta"

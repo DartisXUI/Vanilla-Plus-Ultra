@@ -1,0 +1,14 @@
+name = "Hunting Dimension"
+filename = "HuntingDimension-1.12.2-1.0.43.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2860/453/HuntingDimension-1.12.2-1.0.43.jar"
+hash-format = "murmur2"
+hash = "3259149848"
+
+[update]
+[update.curseforge]
+file-id = 2860453
+project-id = 283235
+release-channel = "beta"

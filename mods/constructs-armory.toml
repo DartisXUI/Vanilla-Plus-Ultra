@@ -1,0 +1,14 @@
+name = "Construct's Armory"
+filename = "conarm-1.12.2-1.2.5.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2962/662/conarm-1.12.2-1.2.5.9.jar"
+hash-format = "murmur2"
+hash = "1410691733"
+
+[update]
+[update.curseforge]
+file-id = 2962662
+project-id = 287683
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Curio"
+filename = "Curio-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2668/553/Curio-1.0.4.jar"
+hash-format = "murmur2"
+hash = "1752422551"
+
+[update]
+[update.curseforge]
+file-id = 2668553
+project-id = 308190
+release-channel = "beta"
