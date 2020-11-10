@@ -1,0 +1,14 @@
+name = "Tinker's JEI"
+filename = "tinkersjei-1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2701/203/tinkersjei-1.2.jar"
+hash-format = "murmur2"
+hash = "556888099"
+
+[update]
+[update.curseforge]
+file-id = 2701203
+project-id = 291786
+release-channel = "beta"

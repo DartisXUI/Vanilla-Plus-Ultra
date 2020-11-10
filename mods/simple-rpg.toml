@@ -1,0 +1,14 @@
+name = "Simple RPG"
+filename = "simplerpg-2.2-1.12.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2506/574/simplerpg-2.2-1.12.1.jar"
+hash-format = "murmur2"
+hash = "4125877700"
+
+[update]
+[update.curseforge]
+file-id = 2506574
+project-id = 279745
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Not Enough Wands"
+filename = "notenoughwands-1.12-1.8.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2705/633/notenoughwands-1.12-1.8.1.jar"
+hash-format = "murmur2"
+hash = "180238383"
+
+[update]
+[update.curseforge]
+file-id = 2705633
+project-id = 235595
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Portal Gun"
+filename = "PortalGun-1.12.2-7.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2684/33/PortalGun-1.12.2-7.1.0.jar"
+hash-format = "murmur2"
+hash = "1773313034"
+
+[update]
+[update.curseforge]
+file-id = 2684033
+project-id = 229084
+release-channel = "beta"

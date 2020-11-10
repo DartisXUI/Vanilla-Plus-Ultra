@@ -1,0 +1,14 @@
+name = "NotEnoughIDs"
+filename = "NotEnoughIDs-1.5.4.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2695/44/NotEnoughIDs-1.5.4.4.jar"
+hash-format = "murmur2"
+hash = "1442030370"
+
+[update]
+[update.curseforge]
+file-id = 2695044
+project-id = 235107
+release-channel = "beta"

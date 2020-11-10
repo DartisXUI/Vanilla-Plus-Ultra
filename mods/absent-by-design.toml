@@ -1,0 +1,14 @@
+name = "Absent by Design"
+filename = "absentbydesign-1.12.2-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2748/65/absentbydesign-1.12.2-1.0.4.jar"
+hash-format = "murmur2"
+hash = "3752775491"
+
+[update]
+[update.curseforge]
+file-id = 2748065
+project-id = 305840
+release-channel = "beta"

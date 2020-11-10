@@ -1,0 +1,14 @@
+name = "Ore Core"
+filename = "OreCore-1.12.2 -(v.1.4.1).jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2678/631/OreCore-1.12.2 -(v.1.4.1).jar"
+hash-format = "murmur2"
+hash = "3762719297"
+
+[update]
+[update.curseforge]
+file-id = 2678631
+project-id = 232386
+release-channel = "beta"

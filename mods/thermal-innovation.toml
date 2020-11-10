@@ -1,0 +1,14 @@
+name = "Thermal Innovation"
+filename = "ThermalInnovation-1.12.2-0.3.6.1-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2920/441/ThermalInnovation-1.12.2-0.3.6.1-universal.jar"
+hash-format = "murmur2"
+hash = "4209430144"
+
+[update]
+[update.curseforge]
+file-id = 2920441
+project-id = 291737
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "The Aether II"
+filename = "aether_ii-1.12.2-0.3.0+build411-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2960/610/aether_ii-1.12.2-0.3.0+build411-universal.jar"
+hash-format = "murmur2"
+hash = "3887883636"
+
+[update]
+[update.curseforge]
+file-id = 2960610
+project-id = 223796
+release-channel = "beta"

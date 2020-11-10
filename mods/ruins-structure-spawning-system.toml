@@ -1,0 +1,14 @@
+name = "Ruins (Structure Spawning System)"
+filename = "Ruins-1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2721/268/Ruins-1.12.2.jar"
+hash-format = "murmur2"
+hash = "4229449872"
+
+[update]
+[update.curseforge]
+file-id = 2721268
+project-id = 227873
+release-channel = "beta"

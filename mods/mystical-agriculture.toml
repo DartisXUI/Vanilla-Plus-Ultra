@@ -1,0 +1,14 @@
+name = "Mystical Agriculture"
+filename = "MysticalAgriculture-1.12.2-1.7.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2704/562/MysticalAgriculture-1.12.2-1.7.5.jar"
+hash-format = "murmur2"
+hash = "47304130"
+
+[update]
+[update.curseforge]
+file-id = 2704562
+project-id = 246640
+release-channel = "beta"

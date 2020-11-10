@@ -1,1 +1,226 @@
 hash-format = "sha256"
+
+[[files]]
+file = "mods/absent-by-design.toml"
+hash = "193d6adbc670f1955f47b34ef43e7c234994d12955a2b9999029b47b35475b5a"
+metafile = true
+
+[[files]]
+file = "mods/additional-lights.toml"
+hash = "f46bc720591a1e228a53feeb7728330f932060a977cc65ca316801d0fea43d73"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.toml"
+hash = "4e444b7a69c2b68ae168caed1a4d345bfa96cfe8671c6206895698cd93c5167e"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.toml"
+hash = "75f02a3259510376753cdb714e30430d82db0011e84c0b9b05deb5cb4d2ddead"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.toml"
+hash = "41c389de8c99e7861932cdf35ad32b68cbdce698904c8bc294622fac5c7ccaa4"
+metafile = true
+
+[[files]]
+file = "mods/cofh-world.toml"
+hash = "addeba42e92d45f278fa79b94f3b359b5f9ce69eee7438ef7480aa3764bda0e1"
+metafile = true
+
+[[files]]
+file = "mods/cucumber.toml"
+hash = "2e88ef2da54b7607e1bacd21360ea45e5608d1cdc55367518743c3245d6fe083"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.toml"
+hash = "dea07cb4d9537ebfff1e22bfb82395c3b2850fbb0a5394aee05b906f5afbe5e4"
+metafile = true
+
+[[files]]
+file = "mods/ivtoolkit.toml"
+hash = "27ac888fb6b020e5f89cb155c4c019da1d751b45c52c6dabb6b5c0acd1ba9123"
+metafile = true
+
+[[files]]
+file = "mods/jei.toml"
+hash = "5dc4edd68c74875cc28caeccf9ab0f08377371e60d4127a24464c317eee7d16b"
+metafile = true
+
+[[files]]
+file = "mods/mantle.toml"
+hash = "750e15bc8a8092318669fda0b179892a1be2ac65dc37e888d6586543e31c5471"
+metafile = true
+
+[[files]]
+file = "mods/mcjtylib.toml"
+hash = "6eada4314fd82fe43f23670ce92041ba0887d5a1bf050fd84a01e62f6d3cc135"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.toml"
+hash = "9b44cf7f65fa3caf7a7760e8736f2b560cccf36593cd0f46f5e00d040164aaa0"
+metafile = true
+
+[[files]]
+file = "mods/natura.toml"
+hash = "8d28e00965fc4d93759c552d6c261108ea8f38dd5c18a0cc766465c9439c1030"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.toml"
+hash = "9d173ee00c9be20448e71d1ab57dca71aa5c213b677cbc8fe4effc76b3abf5ce"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-wands.toml"
+hash = "23a22e0a948baf4bbcfb3bba7ced21a2dafba79f16e464471ce57a37a2db9af9"
+metafile = true
+
+[[files]]
+file = "mods/notenoughids.toml"
+hash = "e5b17b3d0e03df592b8a593faf8005199d7004e071f159b9b249f8e64ba45514"
+metafile = true
+
+[[files]]
+file = "mods/ore-core.toml"
+hash = "1409373923d2e27a5f5425049b093aba72000a6d743e335d379dc5c2551bc1c8"
+metafile = true
+
+[[files]]
+file = "mods/oreberries.toml"
+hash = "177183e4d42d80f91967a94dc8ab09ef484efb02e1675828f113d59d324920e7"
+metafile = true
+
+[[files]]
+file = "mods/portal-gun.toml"
+hash = "759e7fa2845d63dc051ed1213696c7d91ddb0035235549f28fbf8600247ea6fb"
+metafile = true
+
+[[files]]
+file = "mods/prefab.toml"
+hash = "64e1f03ca2096472c0fd18cb1764a59cac22eccd2117a5643446d44edddcf5c7"
+metafile = true
+
+[[files]]
+file = "mods/quark.toml"
+hash = "112d333f80221cc89842cd3c32419ac96f57b9601178c2738d5e5ed635210afb"
+metafile = true
+
+[[files]]
+file = "mods/ranged-pumps.toml"
+hash = "2a0679d59374566b512e9b1329a9d64e21ccd1621887a5f67b09905646a776b2"
+metafile = true
+
+[[files]]
+file = "mods/recurrent-complex.toml"
+hash = "d26399d69d8b1294e6a541e2aff7520b532c77c75957d0caa03ee8c013c22efa"
+metafile = true
+
+[[files]]
+file = "mods/redstone-flux.toml"
+hash = "2d46c70dfa56a3fcb4c789616b9da9240b89a2c5c2affdf75790f6a624bca726"
+metafile = true
+
+[[files]]
+file = "mods/redstone-paste.toml"
+hash = "19b59fdd37fe933080056be79189179957bb59929c5f67900064142e3c894328"
+metafile = true
+
+[[files]]
+file = "mods/ruins-structure-spawning-system.toml"
+hash = "4bd8d816a52795f9053ad3786b59547ca611aab24d372f9ec1d6083943673133"
+metafile = true
+
+[[files]]
+file = "mods/secretroomsmod.toml"
+hash = "7ccfb0cd3188d1033d794f18886b2d743022fd3733076769d40a2cab40f77216"
+metafile = true
+
+[[files]]
+file = "mods/simple-rpg.toml"
+hash = "b1e24d97ccbad657a899609ccea6ae5c6b017bf0a10ca4b3dc8eeee45b045bc0"
+metafile = true
+
+[[files]]
+file = "mods/the-aether-ii.toml"
+hash = "a151cf2876e2a644278b16c810bd6618506ad9326a874cdc63d4638dd96c35ed"
+metafile = true
+
+[[files]]
+file = "mods/the-one-probe.toml"
+hash = "439e3f7e6e7fa3160fd46739826258107fb9d465f32b658f6102aabc34a03b37"
+metafile = true
+
+[[files]]
+file = "mods/thermal-dynamics.toml"
+hash = "d43bea3e65cd2ac34bd918091846f16bafed4099c0fac95a023d32a33e547b64"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.toml"
+hash = "34a802e247e08ec1a37fea54e3e07322b12b7654852162e81e4578b94e8e47c2"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.toml"
+hash = "b725577f37462da10dc185bcc14228d3b1e5de5ce06a852ebfefc8c507e82571"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.toml"
+hash = "d07bde4a8648d658ef25fff9d890ba67e0365718f08400897f15636ebb481123"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-complement.toml"
+hash = "05454992d0aaa7c2b6812dd220dd62efd6b1cec6f2deed939e15a1b3edc3de9a"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.toml"
+hash = "114d598bc70613705e28c91683c19a0f81b054ba4a36b096a799e44fc2771374"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-jei.toml"
+hash = "957c78ca79cfd6b09816c6940f7c601957bcc096bb80404db25b90f838f6cea5"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-tool-leveling.toml"
+hash = "9829c12e43d03a32cdd6d00198854d86d148af34b4f629bd3ae8dfc4f581a565"
+metafile = true
+
+[[files]]
+file = "mods/titles.toml"
+hash = "b76bdbbadf14bc58ff0cccdb9eb27d260b5bda132cae066b7654e03b5c99732c"
+metafile = true
+
+[[files]]
+file = "mods/top-addons.toml"
+hash = "d172bc2c9d8509a154df80e1b8a158e3edea69374e0ad63dfbde8b9639db689b"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.toml"
+hash = "73541947feda59accf5cc3c03ecb1d1df7232a76feac487ab8e1c97679f7065a"
+metafile = true
+
+[[files]]
+file = "mods/unidict.toml"
+hash = "750c86db5797385533619d2fa26da9dff538f7a3d367be03b8d6fb64eb0cd199"
+metafile = true
+
+[[files]]
+file = "mods/wanionlib.toml"
+hash = "fceec942cbc92493c360643196c43e38fb01af0a3773ec12163e3adc049cce5c"
+metafile = true
+
+[[files]]
+file = "mods/waystones.toml"
+hash = "c9a6cf19ac94d734c45b85fb48af142c19f60b7dd6d3bf90eacbedeb13a99f4a"
+metafile = true
