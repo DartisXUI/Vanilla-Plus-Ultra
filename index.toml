@@ -1,6 +1,842 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Aether/analytics.json.gz"
+hash = "3dd8b371f2abfa8cccb63c69331ffbb49f00aae0a0e0757ce51b9f87d0efdaf9"
+
+[[files]]
+file = "config/Building Gadgets.cfg"
+hash = "e15ed6fd9ff4d5a8facc9f4a7fec3db1cb658af7387233d9ca0b3901120cd371"
+
+[[files]]
+file = "config/InvTweaks.cfg"
+hash = "24863d35f5a905dbfdfff51ec4e387029b5a3cb0edb711bd9bbac16f9da02037"
+
+[[files]]
+file = "config/InvTweaksRules.txt"
+hash = "b63870bb7b08cb7edb1189dd929ae802a8e7a6857ede3d92055038a5c617bb22"
+
+[[files]]
+file = "config/InvTweaksTree.txt"
+hash = "5dbafa1e67c70c79660a4da7a663fabfda69724ec352f79d5d4ab5e0323368e8"
+
+[[files]]
+file = "config/JustEnoughCalculation/main.cfg"
+hash = "9fd71d935bce13fb80c078c18284fbcff08496cc42e4b6c1a1acf583fb742d49"
+
+[[files]]
+file = "config/JustEnoughCalculation/record.json"
+hash = "8617d3ace1228bb5986be5df2617c80463a773cf772e169f29ca0009dedd4b47"
+
+[[files]]
+file = "config/KeepingInventory.cfg"
+hash = "6023997aea0207b91e7c51aa22c510e6e5b2375e100b352aa9c3380554f93773"
+
+[[files]]
+file = "config/MoreOverlays.cfg"
+hash = "081814e142c935f474b4cc84e33f8ddd090857843d5a7d0924dd09c17e866f3c"
+
+[[files]]
+file = "config/NaturaModules.cfg"
+hash = "3826d831f19b7d637fdf1ee3153a8e20af50d28c05b292ad37ef3f749f9cb81c"
+
+[[files]]
+file = "config/TComplementModules.cfg"
+hash = "bebe0576397d917ec2dd0fa709e117cc7783c7638296d8314f5873908cfbd3ab"
+
+[[files]]
+file = "config/TinkerModules.cfg"
+hash = "f66fd47e09f4a7d95e2b0348d8424bad7ab50a1f4535e65db8b6c22d2a453ce4"
+
+[[files]]
+file = "config/TinkerToolLeveling.cfg"
+hash = "c8ce4b860358129fb90fa179bfd48c861c8afdc616b363a7d5fd2b88598a2704"
+
+[[files]]
+file = "config/Titles/archive.json"
+hash = "6395d3152eb56772aa76511e5e078b5ea7961f207a66962f2e98be1f5ccd94ec"
+
+[[files]]
+file = "config/Titles/minecraft.json"
+hash = "21826f1925773d16a20e470c7a18dcefd3ded885ecfe255366254035e2c8af55"
+
+[[files]]
+file = "config/Titles/titles.json"
+hash = "2163beaf9d57409f6f97a2c1e21f9db0dc96d93b2a139efb9850083e69936282"
+
+[[files]]
+file = "config/Titles/titles_config.cfg"
+hash = "45ef549fd8aaae540aa143ada73bc97e934fcfe6cf38c6cb3b9f5d64aa4274a1"
+
+[[files]]
+file = "config/Waystones.cfg"
+hash = "ad5c04f5276ca3e6e589d08901f4f7d2c91d4b9cf5299b2fc93290eb978fe6e1"
+
+[[files]]
+file = "config/aether.cfg"
+hash = "e91913c4417670543e46879d4a32754b59689115830fac7fcb5be18ad30708de"
+
+[[files]]
+file = "config/akashictome.cfg"
+hash = "d391fbd4d704d94d57280e0f5169b3e1b4b3bbc48aea84d3cd0d9293f35307b1"
+
+[[files]]
+file = "config/appleskin.cfg"
+hash = "27fdd990f5cc4d5f8da3a8cd189a26dc50158edfd32ac633a9b82729c33ad317"
+
+[[files]]
+file = "config/armoryexpansion.cfg"
+hash = "cc2853be5e8b8164bdf72497f261a397d5e2c2a1a03de6a7599ec6cce52fe119"
+
+[[files]]
+file = "config/armoryexpansion/conarm/conarm-config.json"
+hash = "b9effb0475a9e163bdcc37ccaf9a322fbe36c4539552fa9aaf151fbe5dcb6a96"
+
+[[files]]
+file = "config/armoryexpansion/conarm/conarm-materials.json"
+hash = "8f9aeab01932170db8ea733495bd528b48d62a9214992e474daa7c864bdee515"
+
+[[files]]
+file = "config/armoryexpansion/conarm/conarm-traits.json"
+hash = "4c321e7401c3fec653680f0800fd1fe19f7ef1e857a89f15238e462dfd795146"
+
+[[files]]
+file = "config/armoryexpansion/custommaterials/custommaterials-alloys.json"
+hash = "15b5aabcf8d0954ac6cd252b9547a0652acaae8a62d16d3053a40746167698ea"
+
+[[files]]
+file = "config/armoryexpansion/custommaterials/custommaterials-config.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/armoryexpansion/custommaterials/custommaterials-materials.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/armoryexpansion/custommaterials/custommaterials-oreDictEntries.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/armoryexpansion/custommaterials/custommaterials-traits.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/armoryexpansion/traits.txt"
+hash = "d13baf86fdbad94548847a5ebf3b514ace3cd17e41b6ee31fd0c2f5daed54529"
+
+[[files]]
+file = "config/badwithernocookiereloaded.cfg"
+hash = "71af24ce80a59892569f1c3d840a09542dbdb49029f78fefd875b5e88127e1e6"
+
+[[files]]
+file = "config/baubles.cfg"
+hash = "e508483e8a803419d2600e3135cd0ccb6ea71307e3b20ccefc7943cbde4e1b18"
+
+[[files]]
+file = "config/betteradvancements/betteradvancements.cfg"
+hash = "6b26c60fe7e9eecf218f6136ee9188a1538e560e2aced0a62b61b22404c24052"
+
+[[files]]
+file = "config/bibliocraft.cfg"
+hash = "c1ae1175048cffbadb749be9bb138bbb5623fce16102995a1fa03a7a0c31a1c0"
+
+[[files]]
+file = "config/birdsfoods.cfg"
+hash = "a132c75e4c2fa50f03a936e51b911db2b0f921af80252ad4462b663d8ba28aa5"
+
+[[files]]
+file = "config/bookshelf.cfg"
+hash = "ba2729658d054813c30596d27f8a0fb17498508cad0e958ebc378f325c92da5a"
+
+[[files]]
+file = "config/chisel.cfg"
+hash = "d26ecdae81dae81dc58f3b9a3838b5382023e0904c74ea72cc2fcf320086cc96"
+
+[[files]]
+file = "config/codechicken/supporters.json"
+hash = "a051785c4b430db9a78722a5dd7c93a2d152f234d2ff5c6c8fecd57206e1dbce"
+
+[[files]]
+file = "config/codechicken/supporters.marker"
+hash = "0bf046c7268749c51526c192b470ed86c79c31bd6b1cf8ac60e60a8dc094565c"
+
+[[files]]
+file = "config/codechickenlib.cfg"
+hash = "1aa05b9dac4c5718764e3e0a4e23addce945ca283dd21959088520160b34a66e"
+
+[[files]]
+file = "config/cofh/core/client.cfg"
+hash = "a2e6e5a9bca83cc08cc0e693ef9a0ac6a1a8bc828a02f8eaf88bafec58903201"
+
+[[files]]
+file = "config/cofh/core/common.cfg"
+hash = "9fb87a0d0400096f64b3d7b4783ba8baeae5b8aa73ba225d865a88cc64fdd4d8"
+
+[[files]]
+file = "config/cofh/core/friends.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/cofh/thermaldynamics/client.cfg"
+hash = "8c7a96b05e944fff933dbe4cd5e3d0327ce41d3984bb4a511bfa0e5327b70282"
+
+[[files]]
+file = "config/cofh/thermaldynamics/common.cfg"
+hash = "045518655216066eeecd0790cef02bd655c25dd3a05dcb308ebc0d38a82318af"
+
+[[files]]
+file = "config/cofh/thermaldynamics/cover_blacklist.json"
+hash = "4bea0304342029262d27286d6089165d091f147809c93edd7a8ba986e2584fdf"
+
+[[files]]
+file = "config/cofh/thermalexpansion/client.cfg"
+hash = "1e5461183d4675ef24d85d2a35c70ca3096cb2ca9602b0477ed58fc56fb5acfd"
+
+[[files]]
+file = "config/cofh/thermalexpansion/common.cfg"
+hash = "ab02b2c36861de5337444cff27b2f1bdbba9cf5ae9b319c4bb56cf8edc769291"
+
+[[files]]
+file = "config/cofh/thermalexpansion/florbs.cfg"
+hash = "5d3fd6d69d5e041c1517f7611c7f3aa2305cb6ee98f69a826e25a40b826ab96c"
+
+[[files]]
+file = "config/cofh/thermalexpansion/morbs.cfg"
+hash = "8dee914b93c1b6823aeb33b3642781cebb45be17d3dc19ad01226b3dc9936103"
+
+[[files]]
+file = "config/cofh/thermalfoundation/client.cfg"
+hash = "312f1f1497166a60486d85ab1776e9a0a622f12d4d5f7e55630111a9af35da03"
+
+[[files]]
+file = "config/cofh/thermalfoundation/common.cfg"
+hash = "4e9ce1847f6f371daeb076a574cbc0d68919ca13f9fa63f0941695531524a012"
+
+[[files]]
+file = "config/cofh/thermalfoundation/lexicon-whitelist.cfg"
+hash = "d925e5c9504c6be9ebb33f73d38b39045c6ae622e032d04fef06b720b884ce5d"
+
+[[files]]
+file = "config/cofh/thermalinnovation/client.cfg"
+hash = "c7740866678ff7ae8948c12e6ec98dafca99d73ca8f0ada7cb7958b67c28d9b5"
+
+[[files]]
+file = "config/cofh/thermalinnovation/common.cfg"
+hash = "f320b17da2915b93a7d56120e8cee1fac5f293bb4dff04c9295f1118e01bdb35"
+
+[[files]]
+file = "config/cofh/world/00_minecraft.json"
+hash = "cba133ba6ce78679471b1d29260c126f5b3d357d751f3b3ff73d9fc1790f8130"
+
+[[files]]
+file = "config/cofh/world/01_thermalfoundation_ores.json"
+hash = "9e38f82ac8766ecccad4cf3087b155b3552fd0d4b5df9167930759927e672247"
+
+[[files]]
+file = "config/cofh/world/02_thermalfoundation_oil.json"
+hash = "4de8460e4846527c3c4c947e6156bdd640055a0a34ffef6f37955dafca8654fe"
+
+[[files]]
+file = "config/cofh/world/03_thermalfoundation_clathrates.json"
+hash = "59b06d7a6362e0937c63cb7716cdf043ff84fcd945b3536293efb6e0c1b8fa0d"
+
+[[files]]
+file = "config/cofh/world/config.cfg"
+hash = "2eef631ebe2a9534bcb660ec2f1878159efbdfb41c1d61dc98cdc7f68142fa75"
+
+[[files]]
+file = "config/conarm.cfg"
+hash = "d9db67b388e00528c495613fda46fcc9abcac8e52b4451ba3aea5b81dd765ebb"
+
+[[files]]
+file = "config/cookingforblockheads.cfg"
+hash = "d9d330c600f2205e7f1ae6f4cb01c26ca5c6a08ab8e171d30f96e4ef2b319b86"
+
+[[files]]
+file = "config/ctm.cfg"
+hash = "7ddf0e7cd4bb1dc03e6201ab78a7f73f0e7ac2cbbdb615c44fa72df5db63ca89"
+
+[[files]]
+file = "config/drawbridges.cfg"
+hash = "d25a064cc8b4d4f3110f87e0752349f6a08815546591331d1666d8b160c4e13b"
+
+[[files]]
+file = "config/endercore/cropconfig.json"
+hash = "f7c71c3da20edeb996b16f4d72709b55ba3f650eb91b0793a4dcefe495c200f3"
+
+[[files]]
+file = "config/endercore/endercore.cfg"
+hash = "ad4e396c926cab4391dc9e389518ef4aa4db6d21b7f619fe358eb6d166d589d5"
+
+[[files]]
+file = "config/enderio/enderio.cfg"
+hash = "ca21b26a55143be0a74eb77295d20480031fcd7e5ebd446a18d0b58ed67abc56"
+
+[[files]]
+file = "config/enderio/enderioconduits.cfg"
+hash = "35a4e0457fb74f9e03ab14030b1c4dcdac3f79dc1d38140e78fb536cba346946"
+
+[[files]]
+file = "config/enderio/enderiointegrationforestry.cfg"
+hash = "b2b939bdf9e2e31dcb49b51fb43e22c61ecdf2b86beb8f42b17c53830a189672"
+
+[[files]]
+file = "config/enderio/enderiomachines.cfg"
+hash = "4e3a5e33a8a19568704788a251f35794fa0b93f1a99b359d306c0ec08d5ec6cc"
+
+[[files]]
+file = "config/enderio/enderiopowertools.cfg"
+hash = "e9d80640582d81c907ee378a35c2ec25f5edba4b4dcc394dd3153b455bd53908"
+
+[[files]]
+file = "config/enderio/painter_paint_sources_core.xml"
+hash = "e25dbcf90745a8318f6a47af83ffed9b3669de71039885c43ac568f9bf1274c0"
+
+[[files]]
+file = "config/enderio/painter_paint_sources_user.xml"
+hash = "c80691313787a06617249cfa769d71ac660e663ed62ec305188905cd9a2f53a7"
+
+[[files]]
+file = "config/enderio/recipes/aliases.pdf"
+hash = "afa6fed891fbab09438a1422c4eddc831bc038f83d529af11f8bc449e7c26e2a"
+
+[[files]]
+file = "config/enderio/recipes/alloying.pdf"
+hash = "fa6d5142ae6c40baae1810e5e7e17c8731505928262449e141c8e7caad6eebc2"
+
+[[files]]
+file = "config/enderio/recipes/alloying_modded.pdf"
+hash = "0f097bb822a6f41c9a91c33f7a157947a816e12586d2c7f36ecac40f54e845df"
+
+[[files]]
+file = "config/enderio/recipes/balls.pdf"
+hash = "dece2a9970e656cbddc1d733daf2fafaa0262c3e3a67053c06804366cc2ee262"
+
+[[files]]
+file = "config/enderio/recipes/base.pdf"
+hash = "28afaca05545479fc7574e8db9a2ac6ee03cc52bb89568f720996e032e545187"
+
+[[files]]
+file = "config/enderio/recipes/capacitor.pdf"
+hash = "8f56fd65fd6a34e550d23ad4bbf4e26f4518ae7987f62dfa59808e0bf87c04bb"
+
+[[files]]
+file = "config/enderio/recipes/capacitor_machines.pdf"
+hash = "d4efdd759c121eca04ab7c5624340419f0a6d91c623e10dbd98abb9678bd8d3c"
+
+[[files]]
+file = "config/enderio/recipes/conduits.pdf"
+hash = "e9ab0905363781bd9e8daf33f65e9ef99beb5dc41ee0ec72d588a8eb5017e416"
+
+[[files]]
+file = "config/enderio/recipes/darksteel_upgrades.pdf"
+hash = "5f326ef350fd898b25e788bda9f906ac0e8be498fc85c41a2679a3a8bdbd8af1"
+
+[[files]]
+file = "config/enderio/recipes/darksteel_upgrades_machines.pdf"
+hash = "dcde7dcdb5faf63c7ff3fcfd271145c4fcd69b6e7c07964c72751f6276a74786"
+
+[[files]]
+file = "config/enderio/recipes/enchanter.pdf"
+hash = "d13e39ffd9c3f307e4ccc1de4b107ef5ed8e78a9a9875ebf9d5a7ddbcff405f5"
+
+[[files]]
+file = "config/enderio/recipes/examples/broken_spawner.xml"
+hash = "e53dbff5701db1036be40d261a10bdf77d1ae5520488b35292ef19817bf21dd6"
+
+[[files]]
+file = "config/enderio/recipes/examples/cheap_machines.xml"
+hash = "218c73ba14d3797ad6da2131ceb659f9243ea6f1787b735155bae9444096aaad"
+
+[[files]]
+file = "config/enderio/recipes/examples/cheap_materials.xml"
+hash = "c1d79389081b1288b08e50140247dc4ad29137f0260d3fb7385b4c397fad73f9"
+
+[[files]]
+file = "config/enderio/recipes/examples/cheaty_spawner.xml"
+hash = "745fbac9238539ea0dede964ef80b6178ca7a1710d1d3b59c5d493119c8da2ec"
+
+[[files]]
+file = "config/enderio/recipes/examples/conduits_easy_recipes.xml"
+hash = "d12d5f788a900afcd414348a1019e59dcbdf4d355b598fa1ae142041e8d0d220"
+
+[[files]]
+file = "config/enderio/recipes/examples/conduits_hard_recipes.xml"
+hash = "74da96a3f7eb6d5e0cc0ab33a87ba23f693f0096095e20550b60de3ea3f38dd1"
+
+[[files]]
+file = "config/enderio/recipes/examples/easy_recipes.xml"
+hash = "ffcc8b9827a636dae7d4e6d76cd0a133dc8d9707b2e93bf7c92ed3bcbea4986b"
+
+[[files]]
+file = "config/enderio/recipes/examples/hard_recipes.xml"
+hash = "1b03c5b8029604bae36d6291cc27587859a1bfdc3092330d07982ab254bbb851"
+
+[[files]]
+file = "config/enderio/recipes/examples/infinity.xml"
+hash = "b49ba73af02b77bbac402c466f39673caffff5732d49df32ba1d8c5891f79044"
+
+[[files]]
+file = "config/enderio/recipes/examples/legacy_recipes.xml"
+hash = "8f0567064a7d10e771169b8c02e8272ca5a4ef496373f5300747716f13ced92d"
+
+[[files]]
+file = "config/enderio/recipes/examples/machines_easy_recipes.xml"
+hash = "e2b7f0882391c4e4dcb928e1bc68fea21d25b6746fb9a5985946a5b82ea1687e"
+
+[[files]]
+file = "config/enderio/recipes/examples/optional_tweaks.xml"
+hash = "3fd6acf93a71b72e8e62fab1d8a6abc76f57bbb1267fa29587c2ac08f6e54d13"
+
+[[files]]
+file = "config/enderio/recipes/examples/peaceful.xml"
+hash = "03b97bb6e53910e7d94dc9f9965b7ecfbe83812bc86557740e1522c064777791"
+
+[[files]]
+file = "config/enderio/recipes/examples/powertools_easy_recipes.xml"
+hash = "249a3177db6d7e055493cd22a7a3c567e445695a71d2d90b8b671b6a9f3e0d26"
+
+[[files]]
+file = "config/enderio/recipes/examples/recipes.xsd"
+hash = "ec1c0b4244d89050a0ca7ec214e4a80c6afa7e3ad7e49907175d06aa6d59a43b"
+
+[[files]]
+file = "config/enderio/recipes/examples/sagmill_dupe_recipe_patches.xml"
+hash = "28bc650b739945efbc46abae72e4f7104460aec317ad5d348cade22801cca3e9"
+
+[[files]]
+file = "config/enderio/recipes/examples/strict_iron.xml"
+hash = "cc59be9d8030feca674a1edabfbbc602a3910eea0800bcc0ac7625bf953b40bd"
+
+[[files]]
+file = "config/enderio/recipes/examples/unhide_base.xml"
+hash = "2058cbec94cb5defa55596bff89b0583423933e13d874b1dfd4a31010782e8be"
+
+[[files]]
+file = "config/enderio/recipes/fuels.pdf"
+hash = "1e8df011ce65e38659f8c966ebc44227062b52f6d1dda8400aaa94c96d18ff37"
+
+[[files]]
+file = "config/enderio/recipes/generated.pdf"
+hash = "368083195e2c56ff6924d7c8e23fb09fd7ced3fd446d51fa2273483218a3e437"
+
+[[files]]
+file = "config/enderio/recipes/glass.pdf"
+hash = "9459132cd52b4b78b665a3f631959e583a1c9601434df8ed244bdcda01bb9586"
+
+[[files]]
+file = "config/enderio/recipes/hiding_base.pdf"
+hash = "8c0e83a2b3b00192e5c7be9b2becea89dc954936e2748398220818a80ae67e94"
+
+[[files]]
+file = "config/enderio/recipes/hiding_conduits.pdf"
+hash = "29dde6e1f72dfc98e940a8e6cc47f0a0f2ca8aa710bbf3538826ad8f7f1ea8c9"
+
+[[files]]
+file = "config/enderio/recipes/hiding_machines.pdf"
+hash = "402c976500c60c692c55bc2489a0fd17a2af4c4fe5d57b4c642a7c8511a4a856"
+
+[[files]]
+file = "config/enderio/recipes/integration_railcraft_recipes.pdf"
+hash = "b4b24800e98aae6e6802c58a4323ec5d0a314189c8e11e580710a9589b234ef4"
+
+[[files]]
+file = "config/enderio/recipes/items.pdf"
+hash = "a9e2ab1aec721e74e943dde14bdc83ed70a91d873c1a94559c2dcabf1424667d"
+
+[[files]]
+file = "config/enderio/recipes/machines.pdf"
+hash = "41379e2d2e0eac132ae6df8059dc14fef82ff2d1db34e245ef8c790cab227801"
+
+[[files]]
+file = "config/enderio/recipes/materials.pdf"
+hash = "01eface3185383450c9bc34544cd43ff64e20257d2dd95ec477be8ade1a2bb7b"
+
+[[files]]
+file = "config/enderio/recipes/misc.pdf"
+hash = "973ed99edd83beb964d18af4a8185c983ad3e2777e14bc9d3e2bf1eaeb04d275"
+
+[[files]]
+file = "config/enderio/recipes/powertools.pdf"
+hash = "3807d96e24b7602cc00f33974ba2426a52c5c757e229a4d2a18e26b5cab96f92"
+
+[[files]]
+file = "config/enderio/recipes/sagmill.pdf"
+hash = "f9d375abf206e1375678976d26baf7536a643599c3f30bea1a3a181cf32f56c2"
+
+[[files]]
+file = "config/enderio/recipes/sagmill_metals.pdf"
+hash = "c25e3bfeba6463021a8500c9eccbc0a4c32e8dd0c5da8dd5a7fbe75fe1b42d5b"
+
+[[files]]
+file = "config/enderio/recipes/sagmill_modded.pdf"
+hash = "35a72993dcddfc137e7c6937b7a4c18916cc46a3c66cc866a9451287f5ed3700"
+
+[[files]]
+file = "config/enderio/recipes/sagmill_ores.pdf"
+hash = "769d4f45ecaf7c68c132196757b890fa3e7baff72d4025cc08bc44a44c1cb05c"
+
+[[files]]
+file = "config/enderio/recipes/sagmill_silentgems.pdf"
+hash = "7f075d47973a013f299e64fda7b1f240090426c92df95d27cd90c160b6e8e87d"
+
+[[files]]
+file = "config/enderio/recipes/sagmill_vanilla.pdf"
+hash = "bea9029b53f1aeb1a4689d600b2a7034e6be065250fd6ec2e27fbd3890e069d0"
+
+[[files]]
+file = "config/enderio/recipes/sagmill_vanilla2modded.pdf"
+hash = "4a7fce1828aded913876ad4ce39ff8b66488cf3c1639b2c4dbba02a51641a5b1"
+
+[[files]]
+file = "config/enderio/recipes/soulbinder.pdf"
+hash = "2baec973370b2d0e590fd7beed171ccf1931952ba42d8b7ee535023a435c250a"
+
+[[files]]
+file = "config/enderio/recipes/spawner.pdf"
+hash = "c956506cec0a95dd3fac5e86b0f04eeb8919d108fbe959e1dc43e7ef1e88d03a"
+
+[[files]]
+file = "config/enderio/recipes/tank.pdf"
+hash = "d77784e04e0b543a1a52744307570637c7545e784c82ddfe85e2f8d4b87e23ac"
+
+[[files]]
+file = "config/enderio/recipes/user/recipes.xsd"
+hash = "ec1c0b4244d89050a0ca7ec214e4a80c6afa7e3ad7e49907175d06aa6d59a43b"
+
+[[files]]
+file = "config/enderio/recipes/user/user_recipes.xml"
+hash = "5e8ca1c4fbda4fe8ade0c4f180fa2f98feeb45a09729f8ba43f15e62bd331a85"
+
+[[files]]
+file = "config/enderio/recipes/vat.pdf"
+hash = "7794faa4c1506ea04c8032087945f00bb3a98aa7026dc8867894dd936d97bf47"
+
+[[files]]
+file = "config/enderstorage.cfg"
+hash = "0e768f6d9d9275564e12c41e0364cc3f0b98b6d2a1715af31509c1d577860853"
+
+[[files]]
+file = "config/eplus.cfg"
+hash = "44ab161b172206cb25beb3d03859c52079f8c4b2919379fad3e2d2c6de2795d1"
+
+[[files]]
+file = "config/fastleafdecay.cfg"
+hash = "5a8c5caee6f90244b51ae5d56d7fa9fbdd98506cb04804092e1536c6b341535b"
+
+[[files]]
+file = "config/foamfix.cfg"
+hash = "b30bd56983f75403473ef9d59446aa059b9601812c3f2b68e6098c26a7a0d8ff"
+
+[[files]]
+file = "config/forge.cfg"
+hash = "0faa0fe45f52ce72ca55655dc7c476e823fc5ad50cb48373e086f3d513a9d592"
+
+[[files]]
+file = "config/forgeChunkLoading.cfg"
+hash = "564d473aa2fd110645997db36a2307ded2f922243dd8df7a18670ebbc9bcd897"
+
+[[files]]
+file = "config/ftblib.cfg"
+hash = "0c2a28be1dcc0fd1823e88430b8038de265c153b3441d9f972860e1df5c9d025"
+
+[[files]]
+file = "config/ftbutilities.cfg"
+hash = "aed014964e9fe6aca30bd549306f369f83d950f80101f93e12d1300dae4ae797"
+
+[[files]]
+file = "config/heroesexpansion.cfg"
+hash = "f54b184b0c2f27a5b7109b7be3456d9ce6bc384a23674310db028136d6e358bb"
+
+[[files]]
+file = "config/huntingdim/huntingdim.cfg"
+hash = "90fefa72f012e5c41b4f3fa1320cdbb0e0bd780c00702ceff7d5dd67c8840c1a"
+
+[[files]]
+file = "config/huntingdim/world_generator_settings.json"
+hash = "dcc59820b64296d6adddc36a6bc3064b1e3136ed8c8115b57f46a9afb1720b08"
+
+[[files]]
+file = "config/ichunutil.cfg"
+hash = "475f8955466e2657b394c7b80cc1a18e3141493cb24a408ffe5a84928898d6ed"
+
+[[files]]
+file = "config/ichunutil_keybinds.cfg"
+hash = "d22a31ff6adc87a65846eeb4a94b1620567d5b39ab8fee00036a37f320e6c051"
+
+[[files]]
+file = "config/infinitylib.cfg"
+hash = "64e5bd1035d80bb8b3d74a6fc558746969ad7b6d7b75b034001a93511e1e0430"
+
+[[files]]
+file = "config/jei/bookmarks.ini"
+hash = "4bcc6161a96dcaa23408eef8ab56be773698befd01c91208c8df41547e3e1eef"
+
+[[files]]
+file = "config/jei/itemBlacklist.cfg"
+hash = "41ab5806db8d5e1c3ce04d36dc8564cc8a21d33dcc0945b3903df0f2a9c68d86"
+
+[[files]]
+file = "config/jei/jei.cfg"
+hash = "765febbe6be3faf646e5a8d05115e53542938dab152c7b142d9b68fa2a07e706"
+
+[[files]]
+file = "config/jei/searchColors.cfg"
+hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
+
+[[files]]
+file = "config/jei/worldSettings.cfg"
+hash = "6f8b280885e0c3e09f1f32e3f6131d1146a63df9f3d7f14c4e71c5379399810e"
+
+[[files]]
+file = "config/jeiintegration.cfg"
+hash = "9f3bdaa99cff2aae77daae8a74e18545b679d31308bb76f18a194ef0d306a66f"
+
+[[files]]
+file = "config/jeresources/jeresources.cfg"
+hash = "89a554fa03284ed83867e2876bcebc7a2ff80e915d6bfa6938bda51d4894ea57"
+
+[[files]]
+file = "config/journeymap_ModInfo.cfg"
+hash = "c2e76a281546411ab287941882e18c2c8b775c5e886cb8b522655ac140a2868f"
+
+[[files]]
+file = "config/journeymap_server.cfg"
+hash = "bfd7c39f740bf5008fb0dc55e1b140d7436f47c57775f5a0fee9721db56229bc"
+
+[[files]]
+file = "config/lucraftcore.cfg"
+hash = "25d4a3e416124e9e9118d564d3745a12789757a014374b1e96c49bdafa0674fb"
+
+[[files]]
+file = "config/lucraftcore.cfg_20201003_202805.errored"
+hash = "b972c3bbb7d2b658c7c5ad10bf1a27776630f762c30f9087d3ebf36ca30d3250"
+
+[[files]]
+file = "config/mcjtylib.cfg"
+hash = "5da016d72f154b7f42274db7a0f6b95a0b9b70a78bf97e9ebf4ea81867add8cc"
+
+[[files]]
+file = "config/moartinkers.cfg"
+hash = "9334791843a5d14a0a2b96d750e2583d925a48013a200e5aef05b0d17eb3a42f"
+
+[[files]]
+file = "config/modnametooltip.cfg"
+hash = "c3b897ecd08bf4cf0a29747d40f5a5326df8cff30e797c15e37a3161a0b8de68"
+
+[[files]]
+file = "config/mysticalagriculture.cfg"
+hash = "59e9df1eb0a571d937f03bce9d3708fb576ddf801092ec25f5f8b01fc475292c"
+
+[[files]]
+file = "config/mysticalagriculture_recipes.cfg"
+hash = "7a16ae499982fd34f09ca28fe29f0570842f99149eed06150aa3cec4744fbed3"
+
+[[files]]
+file = "config/natura.cfg"
+hash = "0284a131fd9b28555ae0e2c90ba91c336a501199a864705f641f9c64276e9d13"
+
+[[files]]
+file = "config/notenoughwands.cfg"
+hash = "e17e93199c3275de9e7c02b1ba1850cd065a6002cd1672fb516f68fef0da161c"
+
+[[files]]
+file = "config/oreberries.cfg"
+hash = "f281f70ebc93fdd4baeff03f2b38692b56431bf1e74269b42db70a50df956883"
+
+[[files]]
+file = "config/oreberries.json"
+hash = "2314ca0ffbb787610202f3c0d023281aceccf83989c7ae2e8e256f4781a6cd6d"
+
+[[files]]
+file = "config/orecore.cfg"
+hash = "f5f7be24306d4aa813826ba52161a009389dfdcc7d8366f84828ab5b5c54c5d9"
+
+[[files]]
+file = "config/phosphor.json"
+hash = "4b27c6215105458d0910d8b3a994bec33c0c2bb1ab34e5fd5a48489f2b84dfda"
+
+[[files]]
+file = "config/portalgun.cfg"
+hash = "8018d1ebd42631dc2fbdadf85fa8e3aa1fc7ba0cc0341d7ecadc4d85a098c744"
+
+[[files]]
+file = "config/prefab.cfg"
+hash = "d45574b3254c9dd6325e818ae3e40cef2c03b21b5737239051b7ac80d9bf4cb9"
+
+[[files]]
+file = "config/quark.cfg"
+hash = "ff59f19ef5f301fbc311e763eba3ed9c6b80d1a3b78df05e32ae2d0cc839fbcf"
+
+[[files]]
+file = "config/rangedpumps.cfg"
+hash = "1325ab50e5883cb91cd0c32b640975d23b01dffdba7e77c327b16597b10aedc4"
+
+[[files]]
+file = "config/reccomplex.cfg"
+hash = "7a2da7130cdd744fb829c8fb4bdd773c024d1f040ff5946130de8d041dd0cc55"
+
+[[files]]
+file = "config/redstonepaste.cfg"
+hash = "b67e2f07256651dbaa3a4c905942b560813e0957655692a0c639c55a7cf47077"
+
+[[files]]
+file = "config/ruins.txt"
+hash = "3cfda179537fd2e6902e8fbb462b02e3ee8c29a365d1fcba645ed0880d3e8d8b"
+
+[[files]]
+file = "config/ruins_config/beaches/dartiscraft-xmarksthespot-tnt-vanillaplus-kree-kryptonian.txt"
+hash = "bca8efb5c42f307f058ff25d4397b4bca59262e660c8e2277c65c509b3fae8d5"
+
+[[files]]
+file = "config/ruins_config/birch_forest/dartiscraft-birchoutpost-vanillaplus-uru-thor.txt"
+hash = "1b1865a95c3bbe53a34bb629ea8b17255a351d4806fea5f4c94191f4ef902ac2"
+
+[[files]]
+file = "config/ruins_config/birch_forest/dartiscraft-gazebo-chitauri-energy-titanium.txt"
+hash = "6a74ae50511937a10254e06e6a5e69857569c9e2ad614b2be0b7b29dd2892a11"
+
+[[files]]
+file = "config/ruins_config/desert/dartiscraft-gazebo-chitauri-energy-titanium.txt"
+hash = "6a74ae50511937a10254e06e6a5e69857569c9e2ad614b2be0b7b29dd2892a11"
+
+[[files]]
+file = "config/ruins_config/desert/dartiscraft-xmarksthespot-tnt-vanillaplus-kree-kryptonian.txt"
+hash = "bca8efb5c42f307f058ff25d4397b4bca59262e660c8e2277c65c509b3fae8d5"
+
+[[files]]
+file = "config/ruins_config/desert_hills/dartiscraft-xmarksthespot-tnt-vanillaplus-kree-kryptonian.txt"
+hash = "bca8efb5c42f307f058ff25d4397b4bca59262e660c8e2277c65c509b3fae8d5"
+
+[[files]]
+file = "config/ruins_config/forest/dartiscraft-birchoutpost-vanillaplus-uru-thor.txt"
+hash = "1b1865a95c3bbe53a34bb629ea8b17255a351d4806fea5f4c94191f4ef902ac2"
+
+[[files]]
+file = "config/ruins_config/forest/dartiscraft-gazebo-chitauri-metal-vibranium.tml"
+hash = "ca4457600ca4ab9ca74cb6a05ac9d173bb07f1a2316e940facb86e83c7c58c47"
+
+[[files]]
+file = "config/ruins_config/generic/EmeraldOreOutcrop.tml"
+hash = "c8873dc3637aada8c444d31712d0e5e1ba7662b0c7875d41a035d3eb87ad1240"
+
+[[files]]
+file = "config/ruins_config/generic/OreSpire.tml"
+hash = "8a52fb3a1be478320d57eb1041106fe0e5d1d1e57c050dba6ce163a55e417e6d"
+
+[[files]]
+file = "config/ruins_config/generic/OutpostNew.tml"
+hash = "0dcec2a4c085a6c2b1f36f20e101bab826027956939dca0436822e91357a5b74"
+
+[[files]]
+file = "config/ruins_config/jungle/JungleThroneWood.tml"
+hash = "e862e82090c479b47fcd45ce6c0126e41e0546f12d648c22ca946df57c24fbc4"
+
+[[files]]
+file = "config/ruins_config/jungle/JungleTreePlatform.tml"
+hash = "88214a92eee6f8f6e6e703416a23a34abafcaf3bc689c1f43cc7072062470fd8"
+
+[[files]]
+file = "config/ruins_config/jungle/JungleTreePlatform_edit.tml"
+hash = "86f0bc4aa352a57d7be843152815f2d8418cd440836bcaf992ca9b94a78a6b6f"
+
+[[files]]
+file = "config/ruins_config/jungle/dartiscraft-gazebo-chitauri-metal-vibranium-panther.tml"
+hash = "72f84eca662ab49c9e193d928812c7fd394c85f6d7937ff420cd701ef3155002"
+
+[[files]]
+file = "config/ruins_config/jungle_edge/dartiscraft-gazebo-chitauri-metal-vibranium-panther.tml"
+hash = "72f84eca662ab49c9e193d928812c7fd394c85f6d7937ff420cd701ef3155002"
+
+[[files]]
+file = "config/ruins_config/jungle_hills/dartiscraft-gazebo-chitauri-metal-vibranium-panther.tml"
+hash = "72f84eca662ab49c9e193d928812c7fd394c85f6d7937ff420cd701ef3155002"
+
+[[files]]
+file = "config/ruins_config/mesa/dartiscraft-birchoutpost-vanillaplus-uru-thor.txt"
+hash = "1b1865a95c3bbe53a34bb629ea8b17255a351d4806fea5f4c94191f4ef902ac2"
+
+[[files]]
+file = "config/ruins_config/mesa/dartiscraft-gazebo-chitauri-energy-titanium.txt"
+hash = "6a74ae50511937a10254e06e6a5e69857569c9e2ad614b2be0b7b29dd2892a11"
+
+[[files]]
+file = "config/ruins_config/ocean/TowerAtlantis.tml"
+hash = "1a3df2cfd0702c48ff5b3d711b4bc0ec5086948494cf7b622c60b7b9a0a8e672"
+
+[[files]]
+file = "config/ruins_config/plains/CastleModified.tml"
+hash = "dbb2e22c1e3a889813322b9e6738895b30623630b36f365469cbfebab3955e1d"
+
+[[files]]
+file = "config/ruins_config/plains/dartiscraft-gazebo-chitauri-energy-titanium.txt"
+hash = "6a74ae50511937a10254e06e6a5e69857569c9e2ad614b2be0b7b29dd2892a11"
+
+[[files]]
+file = "config/ruins_config/plains/dartiscraft-gazebo-chitauri-metal-vibranium.tml"
+hash = "ca4457600ca4ab9ca74cb6a05ac9d173bb07f1a2316e940facb86e83c7c58c47"
+
+[[files]]
+file = "config/ruins_config/river/dartiscraft-goldrush.tml"
+hash = "a7666fbcf70b2c4611ea1b32f5393d6953d35e6c90cd6151f40ffa604e430d47"
+
+[[files]]
+file = "config/ruins_config/savannah/dartiscraft-birchoutpost-vanillaplus-uru-thor.txt"
+hash = "1b1865a95c3bbe53a34bb629ea8b17255a351d4806fea5f4c94191f4ef902ac2"
+
+[[files]]
+file = "config/ruins_config/savannah/dartiscraft-gazebo-chitauri-metal-vibranium.tml"
+hash = "ca4457600ca4ab9ca74cb6a05ac9d173bb07f1a2316e940facb86e83c7c58c47"
+
+[[files]]
+file = "config/secretroomsmod.cfg"
+hash = "40af6b63544732e61b6c0dc11af9c8bb8404e44402a5c4e8d5502a03d1fb26c2"
+
+[[files]]
+file = "config/sgcraft.cfg"
+hash = "e6c08afcfd38a22a039ef1d1ee3aed3a26c63f3ec022a616266ac153f6b44dba"
+
+[[files]]
+file = "config/simplerpg.cfg"
+hash = "9aa8f5bd88dd2fccbf1c9e6fe4afbe99296d28ff09af9e1561dceec1791beb23"
+
+[[files]]
+file = "config/splash.properties"
+hash = "63064c8931374c46e9bc0dc69b5c55629b09108e89490add918256c28cc4d3ff"
+
+[[files]]
+file = "config/tcomplement.cfg"
+hash = "912b14c6a8b76b7aee8eab599ff8e1b0c0c3c28a187bc37a5986c8a5f6566c2a"
+
+[[files]]
+file = "config/tconstruct.cfg"
+hash = "6d57d986daefd5e3517a356e4a710bc08a813194db39955286e57db0e4f185e9"
+
+[[files]]
+file = "config/theoneprobe.cfg"
+hash = "8ace5f50a7bdf77089356d088ed0f9a82f508196509175c64609544487ace510"
+
+[[files]]
+file = "config/topaddons.cfg"
+hash = "d276c9fa4a9a5431b403fb7d1d55408c9b5d5063da55374f79229a132f060ff0"
+
+[[files]]
+file = "config/topaddons_client.cfg"
+hash = "ed5d76d3752b944c0ece98ebfe3192d9623757db779902155b443fcb9215fe47"
+
+[[files]]
+file = "config/torchmaster.cfg"
+hash = "81a9678fa7ab3e351c14c2b411368b4d18c9279869642e8448c5865364944806"
+
+[[files]]
+file = "config/unidict/IntegrationModule.cfg"
+hash = "8d8f4ce49d85926fc90f553744e156ce65b797c6ed33bc0c341a4cb46d43f26f"
+
+[[files]]
+file = "config/unidict/UniDict.cfg"
+hash = "afd7af17539c1ebf09e8f5d062bb895b796c00c79b0013f2604b27f8369f3c23"
+
+[[files]]
 file = "mods/absent-by-design.toml"
 hash = "193d6adbc670f1955f47b34ef43e7c234994d12955a2b9999029b47b35475b5a"
 metafile = true
@@ -419,3 +1255,7 @@ metafile = true
 file = "mods/waystones.toml"
 hash = "c9a6cf19ac94d734c45b85fb48af142c19f60b7dd6d3bf90eacbedeb13a99f4a"
 metafile = true
+
+[[files]]
+file = "scripts/recipes.zs"
+hash = "371e47340780a4c74159e391376809db8eb02fb5a9e641ac73b0e44035498698"
