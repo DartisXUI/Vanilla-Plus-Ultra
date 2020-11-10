@@ -6,11 +6,11 @@ hash = "3dd8b371f2abfa8cccb63c69331ffbb49f00aae0a0e0757ce51b9f87d0efdaf9"
 
 [[files]]
 file = "config/Building Gadgets.cfg"
-hash = "e15ed6fd9ff4d5a8facc9f4a7fec3db1cb658af7387233d9ca0b3901120cd371"
+hash = "23f1c16e597e9e85bf245c2d10dd1f047272447c3462fbfc3f57d399fc743d18"
 
 [[files]]
 file = "config/InvTweaks.cfg"
-hash = "24863d35f5a905dbfdfff51ec4e387029b5a3cb0edb711bd9bbac16f9da02037"
+hash = "88f8b00d60a34008f6776a19bf1f9b4034fef956adf91c0f7e91a96ae00d328d"
 
 [[files]]
 file = "config/InvTweaksRules.txt"
@@ -22,7 +22,7 @@ hash = "5dbafa1e67c70c79660a4da7a663fabfda69724ec352f79d5d4ab5e0323368e8"
 
 [[files]]
 file = "config/JustEnoughCalculation/main.cfg"
-hash = "9fd71d935bce13fb80c078c18284fbcff08496cc42e4b6c1a1acf583fb742d49"
+hash = "9512e12d279050139653aeb6a429eb13745086691b156af47f73bd1d4bbbe98d"
 
 [[files]]
 file = "config/JustEnoughCalculation/record.json"
@@ -30,23 +30,23 @@ hash = "8617d3ace1228bb5986be5df2617c80463a773cf772e169f29ca0009dedd4b47"
 
 [[files]]
 file = "config/KeepingInventory.cfg"
-hash = "6023997aea0207b91e7c51aa22c510e6e5b2375e100b352aa9c3380554f93773"
+hash = "847f2c0286f5e1f94e39fdde76253f848bbab3ce1e31e7fffaafc1e3c71644b0"
 
 [[files]]
 file = "config/MoreOverlays.cfg"
-hash = "081814e142c935f474b4cc84e33f8ddd090857843d5a7d0924dd09c17e866f3c"
+hash = "9c2ae41d23c8fee1477bf2bd64abc5800ab2f30a549bdbec83804ae80df5a33b"
 
 [[files]]
 file = "config/NaturaModules.cfg"
-hash = "3826d831f19b7d637fdf1ee3153a8e20af50d28c05b292ad37ef3f749f9cb81c"
+hash = "05a585b719a612604f368b68e7865f39f3d330901a1727f4b21daa32143411ef"
 
 [[files]]
 file = "config/TComplementModules.cfg"
-hash = "bebe0576397d917ec2dd0fa709e117cc7783c7638296d8314f5873908cfbd3ab"
+hash = "287f1d3897d028d3d501017b791eceefdbda7f6f433e868412225f4318d89172"
 
 [[files]]
 file = "config/TinkerModules.cfg"
-hash = "f66fd47e09f4a7d95e2b0348d8424bad7ab50a1f4535e65db8b6c22d2a453ce4"
+hash = "b8560ee6ba7c99297a489fd1f39217e47431238db471a5140af31a1d7718d2cc"
 
 [[files]]
 file = "config/TinkerToolLeveling.cfg"
@@ -54,39 +54,39 @@ hash = "c8ce4b860358129fb90fa179bfd48c861c8afdc616b363a7d5fd2b88598a2704"
 
 [[files]]
 file = "config/Titles/archive.json"
-hash = "6395d3152eb56772aa76511e5e078b5ea7961f207a66962f2e98be1f5ccd94ec"
+hash = "7fc4a2abc3f0629daf3739293652bd311b5589244aa660898007a97a75131a5d"
 
 [[files]]
 file = "config/Titles/minecraft.json"
-hash = "21826f1925773d16a20e470c7a18dcefd3ded885ecfe255366254035e2c8af55"
+hash = "0fc19510626aa49255ce7b8f19e285b04425e84ccfde220d8cad3472026f131c"
 
 [[files]]
 file = "config/Titles/titles.json"
-hash = "2163beaf9d57409f6f97a2c1e21f9db0dc96d93b2a139efb9850083e69936282"
+hash = "ee16f5c6b8d49b9e92b013aeb1a72be638162cac951acf74c2dda7939dca2415"
 
 [[files]]
 file = "config/Titles/titles_config.cfg"
-hash = "45ef549fd8aaae540aa143ada73bc97e934fcfe6cf38c6cb3b9f5d64aa4274a1"
+hash = "82ecbee54efc5acf583868c866d66b2b8635d26b5897ad2ee726f056a1065b69"
 
 [[files]]
 file = "config/Waystones.cfg"
-hash = "ad5c04f5276ca3e6e589d08901f4f7d2c91d4b9cf5299b2fc93290eb978fe6e1"
+hash = "73649643eed98cc6c35f46ca5717f7aef037b244b2c95c5b99f68b71efdb6662"
 
 [[files]]
 file = "config/aether.cfg"
-hash = "e91913c4417670543e46879d4a32754b59689115830fac7fcb5be18ad30708de"
+hash = "8abea76467148dc0bc101fcde2b84962ba6f80fbd2dc576ad9aa5a46ef2bd3e6"
 
 [[files]]
 file = "config/akashictome.cfg"
-hash = "d391fbd4d704d94d57280e0f5169b3e1b4b3bbc48aea84d3cd0d9293f35307b1"
+hash = "1eae3702055f73d26abcc2e0d105cc5dc1e7f6fe40cd469335beaad29981367d"
 
 [[files]]
 file = "config/appleskin.cfg"
-hash = "27fdd990f5cc4d5f8da3a8cd189a26dc50158edfd32ac633a9b82729c33ad317"
+hash = "3db18929798bc16d0af30df80c2e5753a9622c8232858806cbe500a8c5e25bea"
 
 [[files]]
 file = "config/armoryexpansion.cfg"
-hash = "cc2853be5e8b8164bdf72497f261a397d5e2c2a1a03de6a7599ec6cce52fe119"
+hash = "ea13aeb71bdc7de480c1bf8de4f3eb1c266a5a91a0d40066166be3836a887108"
 
 [[files]]
 file = "config/armoryexpansion/conarm/conarm-config.json"
@@ -126,35 +126,35 @@ hash = "d13baf86fdbad94548847a5ebf3b514ace3cd17e41b6ee31fd0c2f5daed54529"
 
 [[files]]
 file = "config/badwithernocookiereloaded.cfg"
-hash = "71af24ce80a59892569f1c3d840a09542dbdb49029f78fefd875b5e88127e1e6"
+hash = "5932a61d5f684ed25c27c374bc53928debc5e5c08cfda5a12e5b28fc495a3974"
 
 [[files]]
 file = "config/baubles.cfg"
-hash = "e508483e8a803419d2600e3135cd0ccb6ea71307e3b20ccefc7943cbde4e1b18"
+hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/betteradvancements/betteradvancements.cfg"
-hash = "6b26c60fe7e9eecf218f6136ee9188a1538e560e2aced0a62b61b22404c24052"
+hash = "c37ad8efe39441f40bb046367dd34d9d5f7c92de76938ea4888f84c7f927b31a"
 
 [[files]]
 file = "config/bibliocraft.cfg"
-hash = "c1ae1175048cffbadb749be9bb138bbb5623fce16102995a1fa03a7a0c31a1c0"
+hash = "72cd0dcc339927d4901d1163e3fd6eb6f14f15d713760dfd81148b9a5d806208"
 
 [[files]]
 file = "config/birdsfoods.cfg"
-hash = "a132c75e4c2fa50f03a936e51b911db2b0f921af80252ad4462b663d8ba28aa5"
+hash = "9df91373cd03a6e2607fd1a6efde839e970a173c2708cba31adb79cd59fbe4e7"
 
 [[files]]
 file = "config/bookshelf.cfg"
-hash = "ba2729658d054813c30596d27f8a0fb17498508cad0e958ebc378f325c92da5a"
+hash = "92c47c2ca07d4a930818149a8fffa5cf941e0c6b5145c0dde85746f746389053"
 
 [[files]]
 file = "config/chisel.cfg"
-hash = "d26ecdae81dae81dc58f3b9a3838b5382023e0904c74ea72cc2fcf320086cc96"
+hash = "9942e8e7cac1c56242efea389b4afb2970a9c6d62b252fc64624423463afe938"
 
 [[files]]
 file = "config/codechicken/supporters.json"
-hash = "a051785c4b430db9a78722a5dd7c93a2d152f234d2ff5c6c8fecd57206e1dbce"
+hash = "b19ea40459ecc3bf4f83aa79e73ff3306b3a195e3b1f5b406397867eec92e762"
 
 [[files]]
 file = "config/codechicken/supporters.marker"
@@ -162,15 +162,15 @@ hash = "0bf046c7268749c51526c192b470ed86c79c31bd6b1cf8ac60e60a8dc094565c"
 
 [[files]]
 file = "config/codechickenlib.cfg"
-hash = "1aa05b9dac4c5718764e3e0a4e23addce945ca283dd21959088520160b34a66e"
+hash = "cd362380ceff6360c6fd1312599b277942674106fb430866d3efc834556a7d1b"
 
 [[files]]
 file = "config/cofh/core/client.cfg"
-hash = "a2e6e5a9bca83cc08cc0e693ef9a0ac6a1a8bc828a02f8eaf88bafec58903201"
+hash = "b760ba088ac2f391c16c7c98351b4af14a48fe01bc591c40401cf4d9b8519cdd"
 
 [[files]]
 file = "config/cofh/core/common.cfg"
-hash = "9fb87a0d0400096f64b3d7b4783ba8baeae5b8aa73ba225d865a88cc64fdd4d8"
+hash = "d28bf83a7ee4d1a9e3ee4300faae0be4fae16256c0dcc505f317dc3cc3558911"
 
 [[files]]
 file = "config/cofh/core/friends.cfg"
@@ -178,39 +178,39 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/cofh/thermaldynamics/client.cfg"
-hash = "8c7a96b05e944fff933dbe4cd5e3d0327ce41d3984bb4a511bfa0e5327b70282"
+hash = "d65d2d91bb9d86176375da4368c74d1ffae30a368a4592b430de4687a5f00733"
 
 [[files]]
 file = "config/cofh/thermaldynamics/common.cfg"
-hash = "045518655216066eeecd0790cef02bd655c25dd3a05dcb308ebc0d38a82318af"
+hash = "c297275b538da1e0c1033e3c5d85e03f3da4d57d6a58790653569e59a2ff3218"
 
 [[files]]
 file = "config/cofh/thermaldynamics/cover_blacklist.json"
-hash = "4bea0304342029262d27286d6089165d091f147809c93edd7a8ba986e2584fdf"
+hash = "9671cdb2d2f6ac1666bf63f56e568c674a1bd933280768ee0e78fbed4cf8c8f2"
 
 [[files]]
 file = "config/cofh/thermalexpansion/client.cfg"
-hash = "1e5461183d4675ef24d85d2a35c70ca3096cb2ca9602b0477ed58fc56fb5acfd"
+hash = "1701b932f99f5653e6b5986137e21bfbe7231f783892606ee8ee043427156748"
 
 [[files]]
 file = "config/cofh/thermalexpansion/common.cfg"
-hash = "ab02b2c36861de5337444cff27b2f1bdbba9cf5ae9b319c4bb56cf8edc769291"
+hash = "210a35dd83fa3121a7b82d0683341fe712d70bc80f78c82c2a53545e662431cf"
 
 [[files]]
 file = "config/cofh/thermalexpansion/florbs.cfg"
-hash = "5d3fd6d69d5e041c1517f7611c7f3aa2305cb6ee98f69a826e25a40b826ab96c"
+hash = "555d598ec13ed39667504a65e159b7d15ee503dcbd3224d17ada4631cd30c32f"
 
 [[files]]
 file = "config/cofh/thermalexpansion/morbs.cfg"
-hash = "8dee914b93c1b6823aeb33b3642781cebb45be17d3dc19ad01226b3dc9936103"
+hash = "3c471283ed93620e7eb7e67cbe1a25ae55f078cdffbd0abfbabcdc314865b43e"
 
 [[files]]
 file = "config/cofh/thermalfoundation/client.cfg"
-hash = "312f1f1497166a60486d85ab1776e9a0a622f12d4d5f7e55630111a9af35da03"
+hash = "0033114233ce613c785abf4fbe00cb64bfb416665f2c0838a5271ce421ea3e28"
 
 [[files]]
 file = "config/cofh/thermalfoundation/common.cfg"
-hash = "4e9ce1847f6f371daeb076a574cbc0d68919ca13f9fa63f0941695531524a012"
+hash = "17795d7299ce9aabaf651d23308c889d3edede76cc4b53db49b4699fcfe03bdf"
 
 [[files]]
 file = "config/cofh/thermalfoundation/lexicon-whitelist.cfg"
@@ -218,15 +218,15 @@ hash = "d925e5c9504c6be9ebb33f73d38b39045c6ae622e032d04fef06b720b884ce5d"
 
 [[files]]
 file = "config/cofh/thermalinnovation/client.cfg"
-hash = "c7740866678ff7ae8948c12e6ec98dafca99d73ca8f0ada7cb7958b67c28d9b5"
+hash = "70aa0a6710ef612eb907989d046c45539bf11da96ae033568b6ecea357abb390"
 
 [[files]]
 file = "config/cofh/thermalinnovation/common.cfg"
-hash = "f320b17da2915b93a7d56120e8cee1fac5f293bb4dff04c9295f1118e01bdb35"
+hash = "6e16b77fc693431844f73901977a9f6a2dcb72bb12da79c39e508faa7495dd7c"
 
 [[files]]
 file = "config/cofh/world/00_minecraft.json"
-hash = "cba133ba6ce78679471b1d29260c126f5b3d357d751f3b3ff73d9fc1790f8130"
+hash = "6ecfbc51c9e98aa905a93516c177d881e282a6f99faa66d93f6e21cbef5085fe"
 
 [[files]]
 file = "config/cofh/world/01_thermalfoundation_ores.json"
@@ -234,31 +234,31 @@ hash = "9e38f82ac8766ecccad4cf3087b155b3552fd0d4b5df9167930759927e672247"
 
 [[files]]
 file = "config/cofh/world/02_thermalfoundation_oil.json"
-hash = "4de8460e4846527c3c4c947e6156bdd640055a0a34ffef6f37955dafca8654fe"
+hash = "f0b3241dca20b7619ad4f58d77c99b568192a5bd3ffd40d0f31c5c1921a86acb"
 
 [[files]]
 file = "config/cofh/world/03_thermalfoundation_clathrates.json"
-hash = "59b06d7a6362e0937c63cb7716cdf043ff84fcd945b3536293efb6e0c1b8fa0d"
+hash = "8e19adc8a921f3a656b216d5023ed022a22c43fac91299d19f1cfed61fe89c64"
 
 [[files]]
 file = "config/cofh/world/config.cfg"
-hash = "2eef631ebe2a9534bcb660ec2f1878159efbdfb41c1d61dc98cdc7f68142fa75"
+hash = "7cd72fb3b8cae95058e33b07656982c34769122975e0208d38f163e01d32bf02"
 
 [[files]]
 file = "config/conarm.cfg"
-hash = "d9db67b388e00528c495613fda46fcc9abcac8e52b4451ba3aea5b81dd765ebb"
+hash = "c11584598e134465d55e2297f6a3d0e39ba30817c74a262788a091d1dc0b024f"
 
 [[files]]
 file = "config/cookingforblockheads.cfg"
-hash = "d9d330c600f2205e7f1ae6f4cb01c26ca5c6a08ab8e171d30f96e4ef2b319b86"
+hash = "6e7b68927efcb3596c143cbc232c90216212a5f224118b560009d3f086576ef1"
 
 [[files]]
 file = "config/ctm.cfg"
-hash = "7ddf0e7cd4bb1dc03e6201ab78a7f73f0e7ac2cbbdb615c44fa72df5db63ca89"
+hash = "2695969995e5c4d34e6f350bc2bac289b8ab0e80bca9fce098f5e10c370389d6"
 
 [[files]]
 file = "config/drawbridges.cfg"
-hash = "d25a064cc8b4d4f3110f87e0752349f6a08815546591331d1666d8b160c4e13b"
+hash = "be31d351a6c84c023477dc5bd3e1a8a32223dcf129b0c9cd1a7049fec283aeae"
 
 [[files]]
 file = "config/endercore/cropconfig.json"
@@ -266,27 +266,27 @@ hash = "f7c71c3da20edeb996b16f4d72709b55ba3f650eb91b0793a4dcefe495c200f3"
 
 [[files]]
 file = "config/endercore/endercore.cfg"
-hash = "ad4e396c926cab4391dc9e389518ef4aa4db6d21b7f619fe358eb6d166d589d5"
+hash = "e1c8a8cf9d453fdbf39b5ae22a35876c0efc5133cdb2e5dbf699225c746f9a62"
 
 [[files]]
 file = "config/enderio/enderio.cfg"
-hash = "ca21b26a55143be0a74eb77295d20480031fcd7e5ebd446a18d0b58ed67abc56"
+hash = "a2b4c4ae3886b2c74ac46f7d5895ac5b57644a2127008c3a5fe3374ba6cd4161"
 
 [[files]]
 file = "config/enderio/enderioconduits.cfg"
-hash = "35a4e0457fb74f9e03ab14030b1c4dcdac3f79dc1d38140e78fb536cba346946"
+hash = "5d4bfce0c49e64b3ceae366019e7299a3ea1638a6c97187b89cded30a2256295"
 
 [[files]]
 file = "config/enderio/enderiointegrationforestry.cfg"
-hash = "b2b939bdf9e2e31dcb49b51fb43e22c61ecdf2b86beb8f42b17c53830a189672"
+hash = "be1a1c219ea12dcaed98567c9a54aba3c54c801a9971b1c9a77e413b7f1fbd73"
 
 [[files]]
 file = "config/enderio/enderiomachines.cfg"
-hash = "4e3a5e33a8a19568704788a251f35794fa0b93f1a99b359d306c0ec08d5ec6cc"
+hash = "87dc33cd818125252414f3f176cd37b491d83405e325850d6438ffb037257d29"
 
 [[files]]
 file = "config/enderio/enderiopowertools.cfg"
-hash = "e9d80640582d81c907ee378a35c2ec25f5edba4b4dcc394dd3153b455bd53908"
+hash = "75de71bdffb452a98be366701dc6eee584c4799506956fe5e7c4cb5d2102c17d"
 
 [[files]]
 file = "config/enderio/painter_paint_sources_core.xml"
@@ -514,43 +514,43 @@ hash = "7794faa4c1506ea04c8032087945f00bb3a98aa7026dc8867894dd936d97bf47"
 
 [[files]]
 file = "config/enderstorage.cfg"
-hash = "0e768f6d9d9275564e12c41e0364cc3f0b98b6d2a1715af31509c1d577860853"
+hash = "b81fd0e3e1753c167c301de3934e7aa8cb83762b2eaf37e095f3e21044afa578"
 
 [[files]]
 file = "config/eplus.cfg"
-hash = "44ab161b172206cb25beb3d03859c52079f8c4b2919379fad3e2d2c6de2795d1"
+hash = "393154bad79e9de1ebd7c626320b1632a2f3bcdf2fb1c179944dbb45e56cac5d"
 
 [[files]]
 file = "config/fastleafdecay.cfg"
-hash = "5a8c5caee6f90244b51ae5d56d7fa9fbdd98506cb04804092e1536c6b341535b"
+hash = "fea51d79b962ef69834748da5452b42a9bc7e56df499c5b82ce01106c7d6c8cb"
 
 [[files]]
 file = "config/foamfix.cfg"
-hash = "b30bd56983f75403473ef9d59446aa059b9601812c3f2b68e6098c26a7a0d8ff"
+hash = "a11b9b68378ca662045a9d76d09fd8a76c6e86b42aec335fc501f5535a36f565"
 
 [[files]]
 file = "config/forge.cfg"
-hash = "0faa0fe45f52ce72ca55655dc7c476e823fc5ad50cb48373e086f3d513a9d592"
+hash = "218673384236215ef62a94c1cb8d530465cae5e55bec249c8371d4eeee813be1"
 
 [[files]]
 file = "config/forgeChunkLoading.cfg"
-hash = "564d473aa2fd110645997db36a2307ded2f922243dd8df7a18670ebbc9bcd897"
+hash = "87ad1f6bc59a89243bc62dfd067706dbd109df20f3dcc80899b196b8e12389a8"
 
 [[files]]
 file = "config/ftblib.cfg"
-hash = "0c2a28be1dcc0fd1823e88430b8038de265c153b3441d9f972860e1df5c9d025"
+hash = "e9c807b6a4ac7a3075018002ea0f5e822b3dd01e36e6590a20f2e590431f0c5b"
 
 [[files]]
 file = "config/ftbutilities.cfg"
-hash = "aed014964e9fe6aca30bd549306f369f83d950f80101f93e12d1300dae4ae797"
+hash = "d388ac7a978fa2768dae7cfbd60a34d2d5e1585013f9f65356169716886d5b46"
 
 [[files]]
 file = "config/heroesexpansion.cfg"
-hash = "f54b184b0c2f27a5b7109b7be3456d9ce6bc384a23674310db028136d6e358bb"
+hash = "d54ba5cd6e9e4d6e96c58440c2db45ed65f1808a3041efbeba4e4fba5134c0ea"
 
 [[files]]
 file = "config/huntingdim/huntingdim.cfg"
-hash = "90fefa72f012e5c41b4f3fa1320cdbb0e0bd780c00702ceff7d5dd67c8840c1a"
+hash = "59a01acc6cc0903c497140d20a513ae4f1d86bbf7a507becea0c901d4e0d92a1"
 
 [[files]]
 file = "config/huntingdim/world_generator_settings.json"
@@ -558,15 +558,15 @@ hash = "dcc59820b64296d6adddc36a6bc3064b1e3136ed8c8115b57f46a9afb1720b08"
 
 [[files]]
 file = "config/ichunutil.cfg"
-hash = "475f8955466e2657b394c7b80cc1a18e3141493cb24a408ffe5a84928898d6ed"
+hash = "dab7fc84805319775942b1e2a569ef68daf88b8cdb1fba162e784e766283f0be"
 
 [[files]]
 file = "config/ichunutil_keybinds.cfg"
-hash = "d22a31ff6adc87a65846eeb4a94b1620567d5b39ab8fee00036a37f320e6c051"
+hash = "ed8ad79fb177c814506c5dad50e07f9ff83d627242fcb329c889c166308d88f9"
 
 [[files]]
 file = "config/infinitylib.cfg"
-hash = "64e5bd1035d80bb8b3d74a6fc558746969ad7b6d7b75b034001a93511e1e0430"
+hash = "848628974eea5eb045ef580d1be266f3d407810c272c13fd1503d4c8c58287f9"
 
 [[files]]
 file = "config/jei/bookmarks.ini"
@@ -574,75 +574,75 @@ hash = "4bcc6161a96dcaa23408eef8ab56be773698befd01c91208c8df41547e3e1eef"
 
 [[files]]
 file = "config/jei/itemBlacklist.cfg"
-hash = "41ab5806db8d5e1c3ce04d36dc8564cc8a21d33dcc0945b3903df0f2a9c68d86"
+hash = "9fb9b15b542a7b013ab2ee21cfe39f5d4ac70d72e26e9458c68ac073f1e3368e"
 
 [[files]]
 file = "config/jei/jei.cfg"
-hash = "765febbe6be3faf646e5a8d05115e53542938dab152c7b142d9b68fa2a07e706"
+hash = "6d26f96914a15cceaff8b990011a3978c023d863cb6e796e0e8951a1ad97376c"
 
 [[files]]
 file = "config/jei/searchColors.cfg"
-hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
+hash = "aa2d125660ad731dff9aec92c745a6947e204dba56ecc95d6907f1883d26ec33"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "6f8b280885e0c3e09f1f32e3f6131d1146a63df9f3d7f14c4e71c5379399810e"
+hash = "a11e411cf9fbaa319382f2d2413cee30326e9e5cfd8753d6545a0211dcf51cc5"
 
 [[files]]
 file = "config/jeiintegration.cfg"
-hash = "9f3bdaa99cff2aae77daae8a74e18545b679d31308bb76f18a194ef0d306a66f"
+hash = "97450a1d017a7cce413043c8facd7262532439077f12acc0bc3b3cab6dc07b0d"
 
 [[files]]
 file = "config/jeresources/jeresources.cfg"
-hash = "89a554fa03284ed83867e2876bcebc7a2ff80e915d6bfa6938bda51d4894ea57"
+hash = "047cd00d92a1f69ee1f857cc7bb1a5d08a40cbdf81ddee8dc8a8fd00d5ce89d2"
 
 [[files]]
 file = "config/journeymap_ModInfo.cfg"
-hash = "c2e76a281546411ab287941882e18c2c8b775c5e886cb8b522655ac140a2868f"
+hash = "64fd29635a4b3083a32e7aefbc8d125faa8e73bf027e746b2cd13bb97f4ae6ee"
 
 [[files]]
 file = "config/journeymap_server.cfg"
-hash = "bfd7c39f740bf5008fb0dc55e1b140d7436f47c57775f5a0fee9721db56229bc"
+hash = "c3dd92629e5c58b896df3364bc19cbbfd74446163b20084eb61947ae08dde223"
 
 [[files]]
 file = "config/lucraftcore.cfg"
-hash = "25d4a3e416124e9e9118d564d3745a12789757a014374b1e96c49bdafa0674fb"
+hash = "2d79d7b4e9670107f39f11d9c25c53b30f28c7294dde0096ee426ff5e194337c"
 
 [[files]]
 file = "config/lucraftcore.cfg_20201003_202805.errored"
-hash = "b972c3bbb7d2b658c7c5ad10bf1a27776630f762c30f9087d3ebf36ca30d3250"
+hash = "e11671acd0b886c7268ffcb2cc3367b9654ae6b904c99b7692e4658c9650a0db"
 
 [[files]]
 file = "config/mcjtylib.cfg"
-hash = "5da016d72f154b7f42274db7a0f6b95a0b9b70a78bf97e9ebf4ea81867add8cc"
+hash = "e439d2c0b4d00ab4207c63ab011e3cea27e358c6fa600314bc02841fdf1b6ffc"
 
 [[files]]
 file = "config/moartinkers.cfg"
-hash = "9334791843a5d14a0a2b96d750e2583d925a48013a200e5aef05b0d17eb3a42f"
+hash = "eb4b73e92622a8f5f719a2708312668dcbcedcd721402496ee088b06318d5a82"
 
 [[files]]
 file = "config/modnametooltip.cfg"
-hash = "c3b897ecd08bf4cf0a29747d40f5a5326df8cff30e797c15e37a3161a0b8de68"
+hash = "b8d688a569e68664b2d3b65983ff3f3f7bc2d8e61f7c58c94e054d55428f6921"
 
 [[files]]
 file = "config/mysticalagriculture.cfg"
-hash = "59e9df1eb0a571d937f03bce9d3708fb576ddf801092ec25f5f8b01fc475292c"
+hash = "4ce0923be5abd7162b2f525d0858cf43b861e210763f7d8b7b4c515186f0a7a4"
 
 [[files]]
 file = "config/mysticalagriculture_recipes.cfg"
-hash = "7a16ae499982fd34f09ca28fe29f0570842f99149eed06150aa3cec4744fbed3"
+hash = "1b347613c7e2757bb4dddab7c7331dd68d89d8e0bf49d6a9a9ab0803cbc4c677"
 
 [[files]]
 file = "config/natura.cfg"
-hash = "0284a131fd9b28555ae0e2c90ba91c336a501199a864705f641f9c64276e9d13"
+hash = "001cbfd7151595fdf640ffda11fe7c6ee44949014aad919df39d1f63698cf698"
 
 [[files]]
 file = "config/notenoughwands.cfg"
-hash = "e17e93199c3275de9e7c02b1ba1850cd065a6002cd1672fb516f68fef0da161c"
+hash = "26eb446c63fd6aa99b623685cc28ab08463261610dfa06c5def1671b4c4429f2"
 
 [[files]]
 file = "config/oreberries.cfg"
-hash = "f281f70ebc93fdd4baeff03f2b38692b56431bf1e74269b42db70a50df956883"
+hash = "453b95a1864506b7bb05358cbed43dcede47228da81ab3d489b4ad5ad0591bc9"
 
 [[files]]
 file = "config/oreberries.json"
@@ -650,7 +650,7 @@ hash = "2314ca0ffbb787610202f3c0d023281aceccf83989c7ae2e8e256f4781a6cd6d"
 
 [[files]]
 file = "config/orecore.cfg"
-hash = "f5f7be24306d4aa813826ba52161a009389dfdcc7d8366f84828ab5b5c54c5d9"
+hash = "efe91ddf38b7d53071e034f196b1ddada65cc708b81ff075b38a901e6f40abb0"
 
 [[files]]
 file = "config/phosphor.json"
@@ -658,183 +658,183 @@ hash = "4b27c6215105458d0910d8b3a994bec33c0c2bb1ab34e5fd5a48489f2b84dfda"
 
 [[files]]
 file = "config/portalgun.cfg"
-hash = "8018d1ebd42631dc2fbdadf85fa8e3aa1fc7ba0cc0341d7ecadc4d85a098c744"
+hash = "4f9fc3a744b0882332cf55f0c2a1330eb5235e141092b5907020a89c22018c91"
 
 [[files]]
 file = "config/prefab.cfg"
-hash = "d45574b3254c9dd6325e818ae3e40cef2c03b21b5737239051b7ac80d9bf4cb9"
+hash = "6b707d828c47466de96d8577f8939f80b1f43ec6ba493c3e6ca9d2893cad623d"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "ff59f19ef5f301fbc311e763eba3ed9c6b80d1a3b78df05e32ae2d0cc839fbcf"
+hash = "eadef3b8680051d580da2f31668802aaae7dfbd7b886b7cb25ae603b771bdadd"
 
 [[files]]
 file = "config/rangedpumps.cfg"
-hash = "1325ab50e5883cb91cd0c32b640975d23b01dffdba7e77c327b16597b10aedc4"
+hash = "80f1e053577264dcd92e92ee987288938a028fdcf2ff6954ff3d1230672826b6"
 
 [[files]]
 file = "config/reccomplex.cfg"
-hash = "7a2da7130cdd744fb829c8fb4bdd773c024d1f040ff5946130de8d041dd0cc55"
+hash = "a40263028cfacbf410ed4f8f309d4ac49a36d2e5c4e638d5c1a2624476f4b422"
 
 [[files]]
 file = "config/redstonepaste.cfg"
-hash = "b67e2f07256651dbaa3a4c905942b560813e0957655692a0c639c55a7cf47077"
+hash = "340b56b6cc6f781a4a5100443ef5e19f089555eb8f8ea52369b7e8504212220c"
 
 [[files]]
 file = "config/ruins.txt"
-hash = "3cfda179537fd2e6902e8fbb462b02e3ee8c29a365d1fcba645ed0880d3e8d8b"
+hash = "36725074a365f1dcdfa4d435791dc272161854f7b27775b4014b0d8fd73bc285"
 
 [[files]]
 file = "config/ruins_config/beaches/dartiscraft-xmarksthespot-tnt-vanillaplus-kree-kryptonian.txt"
-hash = "bca8efb5c42f307f058ff25d4397b4bca59262e660c8e2277c65c509b3fae8d5"
+hash = "ce7bfb82a56dd4f38c838e040547c10cfa41bbc65cdd2833d7ebcfb241e76f19"
 
 [[files]]
 file = "config/ruins_config/birch_forest/dartiscraft-birchoutpost-vanillaplus-uru-thor.txt"
-hash = "1b1865a95c3bbe53a34bb629ea8b17255a351d4806fea5f4c94191f4ef902ac2"
+hash = "8cb86f4218d956bf2e34f4a9209351948e18db500422d0a6e2de6ecb5389c2d2"
 
 [[files]]
 file = "config/ruins_config/birch_forest/dartiscraft-gazebo-chitauri-energy-titanium.txt"
-hash = "6a74ae50511937a10254e06e6a5e69857569c9e2ad614b2be0b7b29dd2892a11"
+hash = "b1def97409990949f11bc7d7b0a7fbfcdf4cb65ad6f65ebdb18914adfeff938c"
 
 [[files]]
 file = "config/ruins_config/desert/dartiscraft-gazebo-chitauri-energy-titanium.txt"
-hash = "6a74ae50511937a10254e06e6a5e69857569c9e2ad614b2be0b7b29dd2892a11"
+hash = "b1def97409990949f11bc7d7b0a7fbfcdf4cb65ad6f65ebdb18914adfeff938c"
 
 [[files]]
 file = "config/ruins_config/desert/dartiscraft-xmarksthespot-tnt-vanillaplus-kree-kryptonian.txt"
-hash = "bca8efb5c42f307f058ff25d4397b4bca59262e660c8e2277c65c509b3fae8d5"
+hash = "ce7bfb82a56dd4f38c838e040547c10cfa41bbc65cdd2833d7ebcfb241e76f19"
 
 [[files]]
 file = "config/ruins_config/desert_hills/dartiscraft-xmarksthespot-tnt-vanillaplus-kree-kryptonian.txt"
-hash = "bca8efb5c42f307f058ff25d4397b4bca59262e660c8e2277c65c509b3fae8d5"
+hash = "ce7bfb82a56dd4f38c838e040547c10cfa41bbc65cdd2833d7ebcfb241e76f19"
 
 [[files]]
 file = "config/ruins_config/forest/dartiscraft-birchoutpost-vanillaplus-uru-thor.txt"
-hash = "1b1865a95c3bbe53a34bb629ea8b17255a351d4806fea5f4c94191f4ef902ac2"
+hash = "8cb86f4218d956bf2e34f4a9209351948e18db500422d0a6e2de6ecb5389c2d2"
 
 [[files]]
 file = "config/ruins_config/forest/dartiscraft-gazebo-chitauri-metal-vibranium.tml"
-hash = "ca4457600ca4ab9ca74cb6a05ac9d173bb07f1a2316e940facb86e83c7c58c47"
+hash = "789b170a91ada31591f601e39177c21dfa9848796347b55edf4474b33620c700"
 
 [[files]]
 file = "config/ruins_config/generic/EmeraldOreOutcrop.tml"
-hash = "c8873dc3637aada8c444d31712d0e5e1ba7662b0c7875d41a035d3eb87ad1240"
+hash = "eb6bc54a0e777ea67a235c13bc84066d86ab7d8cccfc97624ea8625e4fd778b3"
 
 [[files]]
 file = "config/ruins_config/generic/OreSpire.tml"
-hash = "8a52fb3a1be478320d57eb1041106fe0e5d1d1e57c050dba6ce163a55e417e6d"
+hash = "b51f60835095741f1db3e85faccc32c90d8e96277b36b29ab49b617376855738"
 
 [[files]]
 file = "config/ruins_config/generic/OutpostNew.tml"
-hash = "0dcec2a4c085a6c2b1f36f20e101bab826027956939dca0436822e91357a5b74"
+hash = "242575807d9715b614debc5a36de42701ababc5a8d0176593ae01723ca353599"
 
 [[files]]
 file = "config/ruins_config/jungle/JungleThroneWood.tml"
-hash = "e862e82090c479b47fcd45ce6c0126e41e0546f12d648c22ca946df57c24fbc4"
+hash = "c7c8a428308d02c8c8723efff85d5580e903b223013219c7ae46a62a3db61bd6"
 
 [[files]]
 file = "config/ruins_config/jungle/JungleTreePlatform.tml"
-hash = "88214a92eee6f8f6e6e703416a23a34abafcaf3bc689c1f43cc7072062470fd8"
+hash = "ef97f653a82f8754d395b7638b165ce4b1332176281ce4a6485577d0b3612943"
 
 [[files]]
 file = "config/ruins_config/jungle/JungleTreePlatform_edit.tml"
-hash = "86f0bc4aa352a57d7be843152815f2d8418cd440836bcaf992ca9b94a78a6b6f"
+hash = "572927617967eef57819fdb6ab19de564b95bceefdc267164cb37584fa18d987"
 
 [[files]]
 file = "config/ruins_config/jungle/dartiscraft-gazebo-chitauri-metal-vibranium-panther.tml"
-hash = "72f84eca662ab49c9e193d928812c7fd394c85f6d7937ff420cd701ef3155002"
+hash = "877c95785b7b6d724f31d73cd5c5555413c013c72729321226bc1fbc4a81c554"
 
 [[files]]
 file = "config/ruins_config/jungle_edge/dartiscraft-gazebo-chitauri-metal-vibranium-panther.tml"
-hash = "72f84eca662ab49c9e193d928812c7fd394c85f6d7937ff420cd701ef3155002"
+hash = "877c95785b7b6d724f31d73cd5c5555413c013c72729321226bc1fbc4a81c554"
 
 [[files]]
 file = "config/ruins_config/jungle_hills/dartiscraft-gazebo-chitauri-metal-vibranium-panther.tml"
-hash = "72f84eca662ab49c9e193d928812c7fd394c85f6d7937ff420cd701ef3155002"
+hash = "877c95785b7b6d724f31d73cd5c5555413c013c72729321226bc1fbc4a81c554"
 
 [[files]]
 file = "config/ruins_config/mesa/dartiscraft-birchoutpost-vanillaplus-uru-thor.txt"
-hash = "1b1865a95c3bbe53a34bb629ea8b17255a351d4806fea5f4c94191f4ef902ac2"
+hash = "8cb86f4218d956bf2e34f4a9209351948e18db500422d0a6e2de6ecb5389c2d2"
 
 [[files]]
 file = "config/ruins_config/mesa/dartiscraft-gazebo-chitauri-energy-titanium.txt"
-hash = "6a74ae50511937a10254e06e6a5e69857569c9e2ad614b2be0b7b29dd2892a11"
+hash = "b1def97409990949f11bc7d7b0a7fbfcdf4cb65ad6f65ebdb18914adfeff938c"
 
 [[files]]
 file = "config/ruins_config/ocean/TowerAtlantis.tml"
-hash = "1a3df2cfd0702c48ff5b3d711b4bc0ec5086948494cf7b622c60b7b9a0a8e672"
+hash = "517008593ef42fec203bbc89412b789ea3c797bbeb159080026af9aa9e38806b"
 
 [[files]]
 file = "config/ruins_config/plains/CastleModified.tml"
-hash = "dbb2e22c1e3a889813322b9e6738895b30623630b36f365469cbfebab3955e1d"
+hash = "8fbddfbf787dff695ee849788766338b9f3164507ab8797f15ef2de03c88b320"
 
 [[files]]
 file = "config/ruins_config/plains/dartiscraft-gazebo-chitauri-energy-titanium.txt"
-hash = "6a74ae50511937a10254e06e6a5e69857569c9e2ad614b2be0b7b29dd2892a11"
+hash = "b1def97409990949f11bc7d7b0a7fbfcdf4cb65ad6f65ebdb18914adfeff938c"
 
 [[files]]
 file = "config/ruins_config/plains/dartiscraft-gazebo-chitauri-metal-vibranium.tml"
-hash = "ca4457600ca4ab9ca74cb6a05ac9d173bb07f1a2316e940facb86e83c7c58c47"
+hash = "789b170a91ada31591f601e39177c21dfa9848796347b55edf4474b33620c700"
 
 [[files]]
 file = "config/ruins_config/river/dartiscraft-goldrush.tml"
-hash = "a7666fbcf70b2c4611ea1b32f5393d6953d35e6c90cd6151f40ffa604e430d47"
+hash = "6c2a911697a04b5f89678e14d701ddae530b1dd1728736ed19cee86e958bb05b"
 
 [[files]]
 file = "config/ruins_config/savannah/dartiscraft-birchoutpost-vanillaplus-uru-thor.txt"
-hash = "1b1865a95c3bbe53a34bb629ea8b17255a351d4806fea5f4c94191f4ef902ac2"
+hash = "8cb86f4218d956bf2e34f4a9209351948e18db500422d0a6e2de6ecb5389c2d2"
 
 [[files]]
 file = "config/ruins_config/savannah/dartiscraft-gazebo-chitauri-metal-vibranium.tml"
-hash = "ca4457600ca4ab9ca74cb6a05ac9d173bb07f1a2316e940facb86e83c7c58c47"
+hash = "789b170a91ada31591f601e39177c21dfa9848796347b55edf4474b33620c700"
 
 [[files]]
 file = "config/secretroomsmod.cfg"
-hash = "40af6b63544732e61b6c0dc11af9c8bb8404e44402a5c4e8d5502a03d1fb26c2"
+hash = "65681b165b6cbc89250c141668a362084354947897d38583ceaf5fcbadcb0f07"
 
 [[files]]
 file = "config/sgcraft.cfg"
-hash = "e6c08afcfd38a22a039ef1d1ee3aed3a26c63f3ec022a616266ac153f6b44dba"
+hash = "a07604cf69c63445e72203b4a97e73c57bf7c8ea22a7ce049207cdd6ba33e015"
 
 [[files]]
 file = "config/simplerpg.cfg"
-hash = "9aa8f5bd88dd2fccbf1c9e6fe4afbe99296d28ff09af9e1561dceec1791beb23"
+hash = "84c390ee021f03df1c7481e16f7d9ad29a88bc424fab50d48d64f0cbb7d52b51"
 
 [[files]]
 file = "config/splash.properties"
-hash = "63064c8931374c46e9bc0dc69b5c55629b09108e89490add918256c28cc4d3ff"
+hash = "b745325820169c93554b36380454e4a06ee042bee4c177e9d6e373109c1e129d"
 
 [[files]]
 file = "config/tcomplement.cfg"
-hash = "912b14c6a8b76b7aee8eab599ff8e1b0c0c3c28a187bc37a5986c8a5f6566c2a"
+hash = "1bd0f1bad028e57affb5a5ec7a4604421964af4742d600e00e999dcb01dc32cb"
 
 [[files]]
 file = "config/tconstruct.cfg"
-hash = "6d57d986daefd5e3517a356e4a710bc08a813194db39955286e57db0e4f185e9"
+hash = "c38e4eb09017e6fabaa57da22f9722ca96c4ce6d503543b44bab9d351279d1cb"
 
 [[files]]
 file = "config/theoneprobe.cfg"
-hash = "8ace5f50a7bdf77089356d088ed0f9a82f508196509175c64609544487ace510"
+hash = "2698b173661dae95b10d840375cf5644bc163124d1b59e29ec256c6bd04013bf"
 
 [[files]]
 file = "config/topaddons.cfg"
-hash = "d276c9fa4a9a5431b403fb7d1d55408c9b5d5063da55374f79229a132f060ff0"
+hash = "d05a3217e4f6e55a3e6a2e7e02f92a8e0d74fdba5fc0d9be30479fb985645a24"
 
 [[files]]
 file = "config/topaddons_client.cfg"
-hash = "ed5d76d3752b944c0ece98ebfe3192d9623757db779902155b443fcb9215fe47"
+hash = "9c55abe0a677b99685b0210c55959a793f482fb0589826eb08149c7106805c2e"
 
 [[files]]
 file = "config/torchmaster.cfg"
-hash = "81a9678fa7ab3e351c14c2b411368b4d18c9279869642e8448c5865364944806"
+hash = "dc780199da0a1a99998773e91508d3cfe82adab4ea9979860b1f3534ced66a19"
 
 [[files]]
 file = "config/unidict/IntegrationModule.cfg"
-hash = "8d8f4ce49d85926fc90f553744e156ce65b797c6ed33bc0c341a4cb46d43f26f"
+hash = "93c0bfbf812647bb416553004c061b7ef34358bbbd2ffe06bee0814b2c35689d"
 
 [[files]]
 file = "config/unidict/UniDict.cfg"
-hash = "afd7af17539c1ebf09e8f5d062bb895b796c00c79b0013f2604b27f8369f3c23"
+hash = "a940dd739c4b2240dd98382ddd9c4e2ce6bed81833950659457a35c5f2bd31aa"
 
 [[files]]
 file = "mods/absent-by-design.toml"
@@ -888,7 +888,7 @@ metafile = true
 
 [[files]]
 file = "mods/bibliocraft.toml"
-hash = "5092b8bc67e08f81248f0aeffdf422a5aca420bc40d520ce77d83d3e9acc5de4"
+hash = "26285295658fc5fe3ce97b8dea28d560792ced9fa728fb2fa557eb6374f2ee34"
 metafile = true
 
 [[files]]
@@ -1258,4 +1258,4 @@ metafile = true
 
 [[files]]
 file = "scripts/recipes.zs"
-hash = "371e47340780a4c74159e391376809db8eb02fb5a9e641ac73b0e44035498698"
+hash = "33d031e6c1294f20963676146247798a923d281e0209d7befc397914c5d1af84"
