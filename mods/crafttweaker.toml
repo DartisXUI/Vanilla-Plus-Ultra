@@ -1,14 +1,14 @@
 name = "CraftTweaker"
-filename = "CraftTweaker2-1.12-4.1.20.586.jar"
+filename = "CraftTweaker2-1.12-4.1.20.601.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3040/575/CraftTweaker2-1.12-4.1.20.586.jar"
+url = "https://edge.forgecdn.net/files/3103/288/CraftTweaker2-1.12-4.1.20.601.jar"
 hash-format = "murmur2"
-hash = "90565211"
+hash = "2449078198"
 
 [update]
 [update.curseforge]
-file-id = 3040575
+file-id = 3103288
 project-id = 239197
 release-channel = "beta"
