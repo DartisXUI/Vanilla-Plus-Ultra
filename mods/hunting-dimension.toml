@@ -1,14 +1,14 @@
 name = "Hunting Dimension"
-filename = "HuntingDimension-1.12.2-1.0.43.jar"
+filename = "HuntingDimension-1.12.2-1.0.42.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2860/453/HuntingDimension-1.12.2-1.0.43.jar"
+url = "https://edge.forgecdn.net/files/2827/888/HuntingDimension-1.12.2-1.0.42.jar"
 hash-format = "murmur2"
-hash = "3259149848"
+hash = "2247388121"
 
 [update]
 [update.curseforge]
-file-id = 2860453
+file-id = 2827888
 project-id = 283235
 release-channel = "beta"

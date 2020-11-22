@@ -1,14 +1,14 @@
 name = "Ender IO"
-filename = "EnderIO-1.12.2-5.2.61.jar"
+filename = "EnderIO-1.12.2-5.2.62.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3068/701/EnderIO-1.12.2-5.2.61.jar"
+url = "https://edge.forgecdn.net/files/3119/139/EnderIO-1.12.2-5.2.62.jar"
 hash-format = "murmur2"
-hash = "1059998584"
+hash = "3242584243"
 
 [update]
 [update.curseforge]
-file-id = 3068701
+file-id = 3119139
 project-id = 64578
 release-channel = "beta"
