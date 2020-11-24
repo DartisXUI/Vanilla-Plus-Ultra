@@ -968,12 +968,12 @@ metafile = true
 
 [[files]]
 file = "mods/enchanting-plus.toml"
-hash = "95efbdebf022b9358e8d8018d85d4282c9bb65f00aae5a1ee222bd1f8dcb0250"
+hash = "f1e43fb577ba10120291ac41de673f645274685d725594ff5da8c8a97dcf25ef"
 metafile = true
 
 [[files]]
 file = "mods/ender-io.toml"
-hash = "0b5f74715cc34efeb9c8112c736df8d3db013413cccf2b5973328a3e5365bb69"
+hash = "c4a7f16d4a0270e36913bcc036afd5cda04183eef1558c0a9bcb3d9dfc85010c"
 metafile = true
 
 [[files]]
@@ -1013,7 +1013,7 @@ metafile = true
 
 [[files]]
 file = "mods/hunting-dimension.toml"
-hash = "921bae36b14c9550f43d5c71dbea1996758847ff5acb69f388d97457b042edc3"
+hash = "53a3f6f48bc74f9557a021514f8f852d888c6e50db52448b66643b8d50485cde"
 metafile = true
 
 [[files]]
@@ -1023,7 +1023,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tweaks.toml"
-hash = "d683929fb11eb223d1fa0e3dbfed21fe735ae1bd5a1d2a2f9273cbfead4a7f7c"
+hash = "085c60da6895469f92cf5c1785269236261c61f7b01f9fd2a262f4a858a9b639"
 metafile = true
 
 [[files]]
@@ -1243,12 +1243,12 @@ metafile = true
 
 [[files]]
 file = "mods/unidict.toml"
-hash = "ec6b7481266e7d6abc3c9a924919b1dafe6f0521e5b741cf19589b54230d7fff"
+hash = "750c86db5797385533619d2fa26da9dff538f7a3d367be03b8d6fb64eb0cd199"
 metafile = true
 
 [[files]]
 file = "mods/wanionlib.toml"
-hash = "49558b0f4c457a39cc7fa96b6de8ae5bde1254bc0abe54ccf7c8a4335bab2d65"
+hash = "fceec942cbc92493c360643196c43e38fb01af0a3773ec12163e3adc049cce5c"
 metafile = true
 
 [[files]]

@@ -1,14 +1,14 @@
 name = "[Unmaintained] Inventory Tweaks"
-filename = "InventoryTweaks-1.63.jar"
+filename = "InventoryTweaks-1.64+dev.151.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2482/481/InventoryTweaks-1.63.jar"
+url = "https://edge.forgecdn.net/files/2923/460/InventoryTweaks-1.64+dev.151.jar"
 hash-format = "murmur2"
-hash = "4009982705"
+hash = "42535972"
 
 [update]
 [update.curseforge]
-file-id = 2482481
+file-id = 2923460
 project-id = 223094
 release-channel = "beta"
