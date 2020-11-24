@@ -41,10 +41,6 @@ file = "config/NaturaModules.cfg"
 hash = "05a585b719a612604f368b68e7865f39f3d330901a1727f4b21daa32143411ef"
 
 [[files]]
-file = "config/TComplementModules.cfg"
-hash = "287f1d3897d028d3d501017b791eceefdbda7f6f433e868412225f4318d89172"
-
-[[files]]
 file = "config/TinkerModules.cfg"
 hash = "b8560ee6ba7c99297a489fd1f39217e47431238db471a5140af31a1d7718d2cc"
 
@@ -805,10 +801,6 @@ file = "config/splash.properties"
 hash = "b745325820169c93554b36380454e4a06ee042bee4c177e9d6e373109c1e129d"
 
 [[files]]
-file = "config/tcomplement.cfg"
-hash = "1bd0f1bad028e57affb5a5ec7a4604421964af4742d600e00e999dcb01dc32cb"
-
-[[files]]
 file = "config/tconstruct.cfg"
 hash = "c38e4eb09017e6fabaa57da22f9722ca96c4ce6d503543b44bab9d351279d1cb"
 
@@ -1204,11 +1196,6 @@ metafile = true
 [[files]]
 file = "mods/thermal-innovation.toml"
 hash = "d07bde4a8648d658ef25fff9d890ba67e0365718f08400897f15636ebb481123"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-complement.toml"
-hash = "05454992d0aaa7c2b6812dd220dd62efd6b1cec6f2deed939e15a1b3edc3de9a"
 metafile = true
 
 [[files]]
