@@ -538,7 +538,7 @@ hash = "e9c807b6a4ac7a3075018002ea0f5e822b3dd01e36e6590a20f2e590431f0c5b"
 
 [[files]]
 file = "config/ftbutilities.cfg"
-hash = "d388ac7a978fa2768dae7cfbd60a34d2d5e1585013f9f65356169716886d5b46"
+hash = "5a55f400ea4866602fe6ae4c185ce6d48cb42c17f4be1c3c7f722a99127ea994"
 
 [[files]]
 file = "config/heroesexpansion.cfg"
