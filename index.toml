@@ -765,6 +765,10 @@ file = "config/ruins_config/plains/CastleModified.tml"
 hash = "8fbddfbf787dff695ee849788766338b9f3164507ab8797f15ef2de03c88b320"
 
 [[files]]
+file = "config/ruins_config/plains/OutpostNew.tml"
+hash = "0dcec2a4c085a6c2b1f36f20e101bab826027956939dca0436822e91357a5b74"
+
+[[files]]
 file = "config/ruins_config/plains/dartiscraft-gazebo-chitauri-energy-titanium.txt"
 hash = "b1def97409990949f11bc7d7b0a7fbfcdf4cb65ad6f65ebdb18914adfeff938c"
 
