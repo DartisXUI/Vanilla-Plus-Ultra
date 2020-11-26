@@ -1,0 +1,14 @@
+name = "Engineers Workshop Reborn"
+filename = "EngineersWorkshopReborn-1.12.2-1.0.9.40.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2641/884/EngineersWorkshopReborn-1.12.2-1.0.9.40.jar"
+hash-format = "murmur2"
+hash = "3924652178"
+
+[update]
+[update.curseforge]
+file-id = 2641884
+project-id = 282354
+release-channel = "beta"

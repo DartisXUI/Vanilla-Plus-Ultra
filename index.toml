@@ -983,6 +983,11 @@ hash = "29fab396bfc16400541918c2afa8d504da54046639e6555d8f52dbd02de72923"
 metafile = true
 
 [[files]]
+file = "mods/engineers-workshop-reborn.toml"
+hash = "5bdc0e714fd18f13652105f78185122ba5567bb5b6dd23b136c78a80e9034464"
+metafile = true
+
+[[files]]
 file = "mods/fast-leaf-decay.toml"
 hash = "8239fcc9487edacf660e8a72b2fb9b9a2757c77df232a0ff409e5a8d9dadcc77"
 metafile = true
