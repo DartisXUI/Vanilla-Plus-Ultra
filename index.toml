@@ -965,7 +965,7 @@ metafile = true
 
 [[files]]
 file = "mods/ender-io.toml"
-hash = "c4a7f16d4a0270e36913bcc036afd5cda04183eef1558c0a9bcb3d9dfc85010c"
+hash = "f204e3a9091285fd0e2de51c736b9392f28a202f95a26940df9f5ee3990cbb17"
 metafile = true
 
 [[files]]
