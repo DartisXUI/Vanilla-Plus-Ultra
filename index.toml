@@ -1103,6 +1103,11 @@ hash = "8d28e00965fc4d93759c552d6c261108ea8f38dd5c18a0cc766465c9439c1030"
 metafile = true
 
 [[files]]
+file = "mods/netherplus.toml"
+hash = "a92d4ba6b3384bf6b3f3a0a7b48bf346b679d1adfbf212942b0320623dfb0e94"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.toml"
 hash = "9d173ee00c9be20448e71d1ab57dca71aa5c213b677cbc8fe4effc76b3abf5ce"
 metafile = true
@@ -1153,6 +1158,11 @@ hash = "c7008ce33ade755dbb24766fd4fe3e8ae87b4a2613f070193673fab884277b2f"
 metafile = true
 
 [[files]]
+file = "mods/rebornstorage.toml"
+hash = "671989feb1f13f73765307ad19e06029b76f14b351af33fd21ca446740ffa853"
+metafile = true
+
+[[files]]
 file = "mods/recurrent-complex.toml"
 hash = "d26399d69d8b1294e6a541e2aff7520b532c77c75957d0caa03ee8c013c22efa"
 metafile = true
@@ -1165,6 +1175,16 @@ metafile = true
 [[files]]
 file = "mods/redstone-paste.toml"
 hash = "19b59fdd37fe933080056be79189179957bb59929c5f67900064142e3c894328"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-addons.toml"
+hash = "e653638517d91da9b99aebda52999ef2e5db5c6e06de0a1b9b64babdbedf3296"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.toml"
+hash = "8222afd78b5c0aed8fd390b8aa4464e444615adaa3fcc163a6592a8660480883"
 metafile = true
 
 [[files]]
