@@ -1213,6 +1213,11 @@ hash = "d07bde4a8648d658ef25fff9d890ba67e0365718f08400897f15636ebb481123"
 metafile = true
 
 [[files]]
+file = "mods/thermal-tinkering.toml"
+hash = "a1d146a403f6ef65e20493d9cc8fcac688fd1df8389b7e1682916cdcc6b204a0"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-construct.toml"
 hash = "114d598bc70613705e28c91683c19a0f81b054ba4a36b096a799e44fc2771374"
 metafile = true

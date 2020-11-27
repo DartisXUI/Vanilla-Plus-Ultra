@@ -1,0 +1,14 @@
+name = "Thermal Tinkering"
+filename = "ThermalTinkering-1.12.2-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2684/43/ThermalTinkering-1.12.2-2.0.1.jar"
+hash-format = "murmur2"
+hash = "3182453996"
+
+[update]
+[update.curseforge]
+file-id = 2684043
+project-id = 251718
+release-channel = "beta"
