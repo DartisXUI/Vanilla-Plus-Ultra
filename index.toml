@@ -542,7 +542,7 @@ hash = "5a55f400ea4866602fe6ae4c185ce6d48cb42c17f4be1c3c7f722a99127ea994"
 
 [[files]]
 file = "config/heroesexpansion.cfg"
-hash = "d54ba5cd6e9e4d6e96c58440c2db45ed65f1808a3041efbeba4e4fba5134c0ea"
+hash = "2e16c4d3f1fc39a7b94f6736fc429d34510983ebd87cdd6987dee1ab384388b8"
 
 [[files]]
 file = "config/huntingdim/huntingdim.cfg"
