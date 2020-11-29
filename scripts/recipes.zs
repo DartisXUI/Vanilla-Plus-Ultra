@@ -3,14 +3,14 @@
 //#Remove
 //Don't touch me!
 //#Add
-recipes.addShapeless(<lucraftcore:ore_uranium>, [[<orecore:uranium_ore>, null, null],[null, null, null], [null, null, null]]);
-recipes.addShapeless(<thermalfoundation:ore:1>, [[<orecore:tin_ore>, null, null],[null, null, null], [null, null, null]]);
-recipes.addShapeless(<thermalfoundation:ore:2>, [[<orecore:silver_ore>, null, null],[null, null, null], [null, null, null]]);
-recipes.addShapeless(<thermalfoundation:ore:6>, [[<orecore:platinum_ore>, null, null],[null, null, null], [null, null, null]]);
-recipes.addShapeless(<thermalfoundation:ore:3>, [[<orecore:lead_ore>, null, null],[null, null, null], [null, null, null]]);
-recipes.addShapeless(<thermalfoundation:ore:7>, [[<orecore:iridium_ore>, null, null],[null, null, null], [null, null, null]]);
-recipes.addShapeless(<thermalfoundation:ore>, [[<orecore:copper_ore>, null, null],[null, null, null], [null, null, null]]);
-recipes.addShapeless(<thermalfoundation:ore:4>, [[<orecore:aluminium_ore>, null, null],[null, null, null], [null, null, null]]);
+recipes.addShapeless(<lucraftcore:ore_uranium>, [<orecore:uranium_ore>]);
+recipes.addShapeless(<thermalfoundation:ore:1>, [<orecore:tin_ore>]);
+recipes.addShapeless(<thermalfoundation:ore:2>, [<orecore:silver_ore>]);
+recipes.addShapeless(<thermalfoundation:ore:6>, [<orecore:platinum_ore>]);
+recipes.addShapeless(<thermalfoundation:ore:3>, [<orecore:lead_ore>]);
+recipes.addShapeless(<thermalfoundation:ore:7>, [<orecore:iridium_ore>]);
+recipes.addShapeless(<thermalfoundation:ore>, [<orecore:copper_ore>]);
+recipes.addShapeless(<thermalfoundation:ore:4>, [<orecore:aluminium_ore>]);
 furnace.addRecipe(<lucraftcore:ore_uranium> * 3, <orecore:end_uranium_ore>, 0.0);
 furnace.addRecipe(<thermalfoundation:ore:1> * 3, <orecore:end_tin_ore>, 0.0);
 furnace.addRecipe(<thermalfoundation:ore:2> * 3, <orecore:end_silver_ore>, 0.0);
