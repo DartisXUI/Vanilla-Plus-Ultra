@@ -969,7 +969,7 @@ metafile = true
 
 [[files]]
 file = "mods/ender-io.toml"
-hash = "f204e3a9091285fd0e2de51c736b9392f28a202f95a26940df9f5ee3990cbb17"
+hash = "cd0e9ca089a42795cd4fd18a878d2072ff44f18ae7fa64576f293ac149226052"
 metafile = true
 
 [[files]]
@@ -1269,7 +1269,7 @@ metafile = true
 
 [[files]]
 file = "mods/unidict.toml"
-hash = "750c86db5797385533619d2fa26da9dff538f7a3d367be03b8d6fb64eb0cd199"
+hash = "5b592fbd7146f2b7c020e03352b02af76c44911d6630439cf211b5c7a5a3c56e"
 metafile = true
 
 [[files]]
