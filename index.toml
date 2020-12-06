@@ -721,10 +721,6 @@ file = "config/ruins_config/generic/OreSpire.tml"
 hash = "b51f60835095741f1db3e85faccc32c90d8e96277b36b29ab49b617376855738"
 
 [[files]]
-file = "config/ruins_config/generic/OutpostNew.tml"
-hash = "242575807d9715b614debc5a36de42701ababc5a8d0176593ae01723ca353599"
-
-[[files]]
 file = "config/ruins_config/jungle/JungleThroneWood.tml"
 hash = "c7c8a428308d02c8c8723efff85d5580e903b223013219c7ae46a62a3db61bd6"
 
@@ -757,16 +753,8 @@ file = "config/ruins_config/mesa/dartiscraft-gazebo-chitauri-energy-titanium.txt
 hash = "b1def97409990949f11bc7d7b0a7fbfcdf4cb65ad6f65ebdb18914adfeff938c"
 
 [[files]]
-file = "config/ruins_config/ocean/TowerAtlantis.tml"
-hash = "517008593ef42fec203bbc89412b789ea3c797bbeb159080026af9aa9e38806b"
-
-[[files]]
 file = "config/ruins_config/plains/CastleModified.tml"
 hash = "8fbddfbf787dff695ee849788766338b9f3164507ab8797f15ef2de03c88b320"
-
-[[files]]
-file = "config/ruins_config/plains/OutpostNew.tml"
-hash = "0dcec2a4c085a6c2b1f36f20e101bab826027956939dca0436822e91357a5b74"
 
 [[files]]
 file = "config/ruins_config/plains/dartiscraft-gazebo-chitauri-energy-titanium.txt"
