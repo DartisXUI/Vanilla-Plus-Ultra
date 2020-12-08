@@ -1016,6 +1016,11 @@ hash = "085c60da6895469f92cf5c1785269236261c61f7b01f9fd2a262f4a858a9b639"
 metafile = true
 
 [[files]]
+file = "mods/iron-chests.toml"
+hash = "8869984ce1cae93208e4526e118d65b18adafa77b8fe8b95787f868ac6bb3e40"
+metafile = true
+
+[[files]]
 file = "mods/ivtoolkit.toml"
 hash = "27ac888fb6b020e5f89cb155c4c019da1d751b45c52c6dabb6b5c0acd1ba9123"
 metafile = true
