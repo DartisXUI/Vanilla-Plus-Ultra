@@ -1276,5 +1276,9 @@ hash = "c9a6cf19ac94d734c45b85fb48af142c19f60b7dd6d3bf90eacbedeb13a99f4a"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "56a8f43671d97e2554327eec3c17bc6a6b9c1d8434b7ea7414514bf6dc9fb37a"
+
+[[files]]
 file = "scripts/recipes.zs"
 hash = "26108859eadcd13d7bb05aea102bdf855a322bdadd12bd4437cd5421cf657d35"
