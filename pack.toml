@@ -3,7 +3,7 @@ name = "Dartis-Craft-Vanilla-Plus-Ultra-1.12.2"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d19c26229c89fa14f19c5e7c5498a0e94163591512d81c9a7f71cb5c18bcce84"
+hash = "f9a02a5a9d2b25111ebadddd7c02c73136d6d8204576400212bc356dd48a1c50"
 
 [versions]
 forge = "14.23.5.2854"
