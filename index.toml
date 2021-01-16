@@ -931,7 +931,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "ec00be4088e5f81977c98458ab2f216f7f8699e969d3a9248cb351030840e5c6"
+hash = "1d43005728ef778dd7bb33c84699f8be411f0d4efde1d4e164f9a70329419b31"
 metafile = true
 
 [[files]]
@@ -986,7 +986,7 @@ metafile = true
 
 [[files]]
 file = "mods/foamfix-optimization-mod.toml"
-hash = "0473430ad8d5f380cf514741a4231acbc2a6b73cd0226c9a275e2efe36c89f94"
+hash = "4ff3d369ddb59e9a15a3ee27f3cf422a70c6d416d990982405f37cd3eaec71b0"
 metafile = true
 
 [[files]]
@@ -996,7 +996,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-utilities.toml"
-hash = "ec535d3258260e18d5bced9db44021bdca31f3b1c64af1a5516c3987c0a6cd1c"
+hash = "af4204cd4a13a192ce1275f24c29643ca24cc972a5990e4df01ed342bd0b457a"
 metafile = true
 
 [[files]]
@@ -1266,7 +1266,7 @@ metafile = true
 
 [[files]]
 file = "mods/unidict.toml"
-hash = "5b592fbd7146f2b7c020e03352b02af76c44911d6630439cf211b5c7a5a3c56e"
+hash = "22797fb3d962ba1bada9355af3414351316fdf521cf67fbcc3d41f845925eef9"
 metafile = true
 
 [[files]]
