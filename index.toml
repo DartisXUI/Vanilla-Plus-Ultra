@@ -821,10 +821,6 @@ file = "config/unidict/UniDict.cfg"
 hash = "a940dd739c4b2240dd98382ddd9c4e2ce6bed81833950659457a35c5f2bd31aa"
 
 [[files]]
-file = "mods/OptiFine_1.12.2_HD_U_F5.jar"
-hash = "fc70db439793b257228ad50dbb497dd50e33c3e08f7d0d6b2bba3a7d7c349619"
-
-[[files]]
 file = "mods/absent-by-design.toml"
 hash = "193d6adbc670f1955f47b34ef43e7c234994d12955a2b9999029b47b35475b5a"
 metafile = true
@@ -1286,19 +1282,3 @@ hash = "56a8f43671d97e2554327eec3c17bc6a6b9c1d8434b7ea7414514bf6dc9fb37a"
 [[files]]
 file = "scripts/recipes.zs"
 hash = "26108859eadcd13d7bb05aea102bdf855a322bdadd12bd4437cd5421cf657d35"
-
-[[files]]
-file = "shaderpacks/BSL_v7.2.01pre2.zip"
-hash = "0d9bee2780733740fa94df219760d94e25539ce020d1c16495889c6f9db0d256"
-
-[[files]]
-file = "shaderpacks/Sildurs Vibrant Shaders v1.281 Extreme.zip"
-hash = "1164cd15e265a5d8c88cda1721100f02f8ed8eaaa4bf21ea9cc3d8a6a95991c8"
-
-[[files]]
-file = "shaderpacks/Sildurs Vibrant Shaders v1.281 High.zip"
-hash = "ab4629c509df65da99f17c65c0c21889c5f187dbe10ce70eb490b1a528374c75"
-
-[[files]]
-file = "shaderpacks/Sildurs Vibrant Shaders v1.281 Lite.zip"
-hash = "e5641d02e65d8a4b12f62787856b65309ea35438f05023a50b7b9b24d952be2a"
