@@ -662,7 +662,7 @@ hash = "6b707d828c47466de96d8577f8939f80b1f43ec6ba493c3e6ca9d2893cad623d"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "eadef3b8680051d580da2f31668802aaae7dfbd7b886b7cb25ae603b771bdadd"
+hash = "61d6bf1f9a97cc246f2ffacee6c7474a42007d310acb3b4b33b80f01ef9f15f0"
 
 [[files]]
 file = "config/rangedpumps.cfg"
@@ -912,7 +912,7 @@ metafile = true
 
 [[files]]
 file = "mods/constructs-armory.toml"
-hash = "2a58eb247d4f9ff7de6bee2f81d072338fd0b96803294bf887696e81815e68eb"
+hash = "fc7ea9950a58d5f1a8f51de569f1dd0ead20a790aa79c1e77095ffbac9dbe7de"
 metafile = true
 
 [[files]]
@@ -927,7 +927,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "1d43005728ef778dd7bb33c84699f8be411f0d4efde1d4e164f9a70329419b31"
+hash = "8f90f597b42b93c21a354b61e3469d4b3f5c8145cbe8c0d31a9107a51f82efe5"
 metafile = true
 
 [[files]]
@@ -957,7 +957,7 @@ metafile = true
 
 [[files]]
 file = "mods/ender-io.toml"
-hash = "cd0e9ca089a42795cd4fd18a878d2072ff44f18ae7fa64576f293ac149226052"
+hash = "6180f3878da4370070bc2f09eae365bf3f91ba525e7e95171369712edcee3131"
 metafile = true
 
 [[files]]
@@ -982,7 +982,7 @@ metafile = true
 
 [[files]]
 file = "mods/foamfix-optimization-mod.toml"
-hash = "4ff3d369ddb59e9a15a3ee27f3cf422a70c6d416d990982405f37cd3eaec71b0"
+hash = "2368ee4c1cb99f837d285b5f08960423e9f6fda6c214762694e9d3718b422917"
 metafile = true
 
 [[files]]
@@ -1042,7 +1042,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-calculation.toml"
-hash = "e4a1b5fdab31e71ea9646a6379f2bb08857fa72fc3b5675665e40b54512e756a"
+hash = "47af0937ad499b423758cfee436398c30454962c033739452118b0a352ade16b"
 metafile = true
 
 [[files]]
@@ -1057,7 +1057,7 @@ metafile = true
 
 [[files]]
 file = "mods/lucraft-core.toml"
-hash = "e5914feb065f72f027e1fefac0d8fbd184f23eb3e6d6d0260cf28e76ab5d76e8"
+hash = "f546165b25cd3361f6530881dfb372474a04921ad2ef6f3c7a82fe6f7f6e40bc"
 metafile = true
 
 [[files]]
@@ -1132,7 +1132,7 @@ metafile = true
 
 [[files]]
 file = "mods/prefab.toml"
-hash = "64e1f03ca2096472c0fd18cb1764a59cac22eccd2117a5643446d44edddcf5c7"
+hash = "f35d393c08626938c7f7bb0dca46ff51549d9edf953f76fbbe036ab9f243cd4b"
 metafile = true
 
 [[files]]
@@ -1147,7 +1147,7 @@ metafile = true
 
 [[files]]
 file = "mods/reborncore.toml"
-hash = "c7008ce33ade755dbb24766fd4fe3e8ae87b4a2613f070193673fab884277b2f"
+hash = "7b7b0fc0cbb87d7ca53d811125003827f37e7e830d4ddc34a4a5b6f7f14e8da4"
 metafile = true
 
 [[files]]
@@ -1247,7 +1247,7 @@ metafile = true
 
 [[files]]
 file = "mods/titles.toml"
-hash = "b76bdbbadf14bc58ff0cccdb9eb27d260b5bda132cae066b7654e03b5c99732c"
+hash = "5d686e151cf6a0419b1bcd8aa058c73a181a6496d2076ccec11a74929966e4ff"
 metafile = true
 
 [[files]]
@@ -1262,7 +1262,7 @@ metafile = true
 
 [[files]]
 file = "mods/unidict.toml"
-hash = "22797fb3d962ba1bada9355af3414351316fdf521cf67fbcc3d41f845925eef9"
+hash = "9f16bb9a84be06ec968b31ded7396555b3697e8d93a117cdd3354b2808e895e0"
 metafile = true
 
 [[files]]

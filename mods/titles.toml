@@ -1,14 +1,14 @@
 name = "Titles"
-filename = "Titles-1.12.2-3.1.6.jar"
+filename = "Titles-1.12.2-3.1.7.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2976/470/Titles-1.12.2-3.1.6.jar"
+url = "https://edge.forgecdn.net/files/3200/728/Titles-1.12.2-3.1.7.jar"
 hash-format = "murmur2"
-hash = "2843625227"
+hash = "1137506490"
 
 [update]
 [update.curseforge]
-file-id = 2976470
+file-id = 3200728
 project-id = 304675
 release-channel = "beta"
