@@ -602,11 +602,7 @@ hash = "c3dd92629e5c58b896df3364bc19cbbfd74446163b20084eb61947ae08dde223"
 
 [[files]]
 file = "config/lucraftcore.cfg"
-hash = "2d79d7b4e9670107f39f11d9c25c53b30f28c7294dde0096ee426ff5e194337c"
-
-[[files]]
-file = "config/lucraftcore.cfg_20201003_202805.errored"
-hash = "e11671acd0b886c7268ffcb2cc3367b9654ae6b904c99b7692e4658c9650a0db"
+hash = "4e7e90fde87400212489b9f20ba8f7225396e26cc48435ca1c0bdb55036500b9"
 
 [[files]]
 file = "config/mcjtylib.cfg"
@@ -927,7 +923,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "27957cf2e5918c04d606f51c8d179f1980af0a9ec96d81e98c18789119576a49"
+hash = "e3ac0ca3d99dd86b55c21dbf71adb9e9e4182d044cdf361ce9f5788ffc112b49"
 metafile = true
 
 [[files]]
@@ -1132,7 +1128,7 @@ metafile = true
 
 [[files]]
 file = "mods/prefab.toml"
-hash = "f35d393c08626938c7f7bb0dca46ff51549d9edf953f76fbbe036ab9f243cd4b"
+hash = "9c55aabfcf5239a70794b4b1ea6deec04a33237771d117d3b5c3344ea0dbe494"
 metafile = true
 
 [[files]]
