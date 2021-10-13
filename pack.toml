@@ -1,4 +1,5 @@
 name = "Dartis-Craft-Vanilla-Plus-Ultra-1.12.2"
+pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
