@@ -1,14 +1,14 @@
 name = "Just Enough Calculation"
-filename = "JustEnoughCalculation-1.12.2-3.2.6.jar"
+filename = "JustEnoughCalculation-1.12.2-3.2.7.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3293/954/JustEnoughCalculation-1.12.2-3.2.6.jar"
+url = "https://edge.forgecdn.net/files/3524/685/JustEnoughCalculation-1.12.2-3.2.7.jar"
 hash-format = "murmur2"
-hash = "1112125870"
+hash = "427139212"
 
 [update]
 [update.curseforge]
-file-id = 3293954
+file-id = 3524685
 project-id = 242223
 release-channel = "beta"
