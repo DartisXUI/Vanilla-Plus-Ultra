@@ -1271,9 +1271,5 @@ file = "options.txt"
 hash = "56a8f43671d97e2554327eec3c17bc6a6b9c1d8434b7ea7414514bf6dc9fb37a"
 
 [[files]]
-file = "scripts/enderio.zs"
-hash = "a0e83e89b4d98673bd3a2b33a055ee19c422844d1609db3bf8f7ce012a25810a"
-
-[[files]]
 file = "scripts/recipes.zs"
-hash = "374b32ae920d8c0d329267ea164583f26142ab85557ba31d886e6d10c424f69d"
+hash = "86df3802ab066930dcf2d9e30e813cbccd530c32f8ab1a3e9a6c198532de47af"
