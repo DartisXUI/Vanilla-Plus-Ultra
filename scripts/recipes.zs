@@ -1,7 +1,7 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Remove
-recipes.removeByRegex(<enderio:*>);
+recipes.removeByRegex(<enderio:.*>);
 //Don't touch me!
 //#Add
 recipes.addShapeless(<lucraftcore:ore_uranium>, [<orecore:uranium_ore>]);
