@@ -1,5 +1,5 @@
 import crafttweaker.item.IItemStack;
-import.crafttweaker.recipes.ICraftinRecipe;  
+import.crafttweaker.recipes.ICraftingRecipe;  
 import crafttweaker.item.IIngredient;  
 import crafttweaker.oredict.IOREDict;  
 import crafttweaker.entity.IEntityDefinition;  

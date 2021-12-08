@@ -1272,7 +1272,7 @@ hash = "56a8f43671d97e2554327eec3c17bc6a6b9c1d8434b7ea7414514bf6dc9fb37a"
 
 [[files]]
 file = "scripts/enderio.zs"
-hash = "f6337e9dd23ed12030ad01b2c80578cb94ae556b0dd01c96f72a37c31d68c166"
+hash = "a0e83e89b4d98673bd3a2b33a055ee19c422844d1609db3bf8f7ce012a25810a"
 
 [[files]]
 file = "scripts/recipes.zs"
