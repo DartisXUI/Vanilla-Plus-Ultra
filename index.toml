@@ -1092,11 +1092,6 @@ hash = "8d28e00965fc4d93759c552d6c261108ea8f38dd5c18a0cc766465c9439c1030"
 metafile = true
 
 [[files]]
-file = "mods/netherplus.toml"
-hash = "a92d4ba6b3384bf6b3f3a0a7b48bf346b679d1adfbf212942b0320623dfb0e94"
-metafile = true
-
-[[files]]
 file = "mods/netherportalfix.toml"
 hash = "9d173ee00c9be20448e71d1ab57dca71aa5c213b677cbc8fe4effc76b3abf5ce"
 metafile = true
