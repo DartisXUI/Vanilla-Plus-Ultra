@@ -1253,17 +1253,17 @@ metafile = true
 
 [[files]]
 file = "mods/torchmaster.toml"
-hash = "73541947feda59accf5cc3c03ecb1d1df7232a76feac487ab8e1c97679f7065a"
+hash = "e6329130a3405c852b339199f5dfccc21326c31de949f345aa5affdfcd09132d"
 metafile = true
 
 [[files]]
 file = "mods/unidict.toml"
-hash = "9f16bb9a84be06ec968b31ded7396555b3697e8d93a117cdd3354b2808e895e0"
+hash = "883b7caf820cce6e58235e9caa055e778607a91612b26bbeea690607afda69db"
 metafile = true
 
 [[files]]
 file = "mods/wanionlib.toml"
-hash = "fceec942cbc92493c360643196c43e38fb01af0a3773ec12163e3adc049cce5c"
+hash = "f95e668b8435c3ca582cebaba6651a3ef28b2931ef5bd88d20a80723556626e5"
 metafile = true
 
 [[files]]
@@ -1277,4 +1277,4 @@ hash = "56a8f43671d97e2554327eec3c17bc6a6b9c1d8434b7ea7414514bf6dc9fb37a"
 
 [[files]]
 file = "scripts/recipes.zs"
-hash = "26108859eadcd13d7bb05aea102bdf855a322bdadd12bd4437cd5421cf657d35"
+hash = "f4b112a284db6eaa5210b55425fd5beb4eca849a95b48b32a42ab9959c9b7172"
