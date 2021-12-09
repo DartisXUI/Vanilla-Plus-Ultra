@@ -2561,6 +2561,10 @@ file = "config/ruins_config/templateparser/planet-progression.tml"
 hash = "ba910dda7c5510ee106a4968976489d264528e8e048a23d8fa48059eb762da5f"
 
 [[files]]
+file = "config/ruins_config/templateparser/taonasg.tml"
+hash = "ad431b81355ef630fc68d2bad9ea994d0d8856cfb2caff1bcf5c51b0b8ea2c7b"
+
+[[files]]
 file = "config/secretroomsmod.cfg"
 hash = "65681b165b6cbc89250c141668a362084354947897d38583ceaf5fcbadcb0f07"
 
