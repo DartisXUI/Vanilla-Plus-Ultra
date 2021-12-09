@@ -681,24 +681,28 @@ file = "config/ruins_config/beaches/dartiscraft-lighthouse-tesseract-direct.tml"
 hash = "0987118c36a63a6a947f6e856a0f5f2fec39f452a6d32968be654517d79d999f"
 
 [[files]]
-file = "config/ruins_config/beaches/dartiscraft-xmarksthespot-tnt-vanillaplus-kree-kryptonian.txt"
-hash = "ce7bfb82a56dd4f38c838e040547c10cfa41bbc65cdd2833d7ebcfb241e76f19"
+file = "config/ruins_config/beaches/dartiscraft-xmarksthespot-tnt-vanillaplus-heroesexpansion-injections-typesand.tml"
+hash = "00ba8781f7a8096460c0271737bf6aecb428e93fb233e4c8c8947125c9af1d2c"
 
 [[files]]
 file = "config/ruins_config/birch_forest_hills/dartiscraft-lighthouse-tesseract-direct.tml"
 hash = "0987118c36a63a6a947f6e856a0f5f2fec39f452a6d32968be654517d79d999f"
 
 [[files]]
-file = "config/ruins_config/desert/dartiscraft-ancient-repository-cavern-mk9-desert.tml"
-hash = "ac0f1c39c9df7df1b5569944936e5271af0cd4c7ade00882bbc48a4296cab81c"
+file = "config/ruins_config/birch_forest_hills/dartiscraft-xmarksthespot-tnt-vanillaplus-heroesexpansion-injections-typegrass.tml"
+hash = "220018d9e8e456376f89ac954359ac47b1f32cd6941163c12423a1a6490cfac2"
 
 [[files]]
-file = "config/ruins_config/desert/dartiscraft-xmarksthespot-tnt-vanillaplus-kree-kryptonian.txt"
-hash = "ce7bfb82a56dd4f38c838e040547c10cfa41bbc65cdd2833d7ebcfb241e76f19"
+file = "config/ruins_config/desert/dartiscraft-ancient-repository-cavern-mk9-typevpu-desert.tml"
+hash = "fe2e0781f0ff2dfe4a4c8981f68e6a84852e93ab65f2fe269b8962fa2c9de004"
 
 [[files]]
-file = "config/ruins_config/desert_hills/dartiscraft-xmarksthespot-tnt-vanillaplus-kree-kryptonian.txt"
-hash = "ce7bfb82a56dd4f38c838e040547c10cfa41bbc65cdd2833d7ebcfb241e76f19"
+file = "config/ruins_config/desert/dartiscraft-xmarksthespot-tnt-vanillaplus-heroesexpansion-injections-typesand.tml"
+hash = "00ba8781f7a8096460c0271737bf6aecb428e93fb233e4c8c8947125c9af1d2c"
+
+[[files]]
+file = "config/ruins_config/desert_hills/dartiscraft-xmarksthespot-tnt-vanillaplus-heroesexpansion-injections-typesand.tml"
+hash = "00ba8781f7a8096460c0271737bf6aecb428e93fb233e4c8c8947125c9af1d2c"
 
 [[files]]
 file = "config/ruins_config/extreme_hills/dartiscraft-stargate-sgcramp-final.tml"
@@ -707,6 +711,10 @@ hash = "26d3a6dc3928cc166212774509944e66b3f8ec0825838279161696dde6a22319"
 [[files]]
 file = "config/ruins_config/forest_hills/dartiscraft-lighthouse-tesseract-direct.tml"
 hash = "0987118c36a63a6a947f6e856a0f5f2fec39f452a6d32968be654517d79d999f"
+
+[[files]]
+file = "config/ruins_config/forest_hills/dartiscraft-xmarksthespot-tnt-vanillaplus-heroesexpansion-injections-typegrass.tml"
+hash = "220018d9e8e456376f89ac954359ac47b1f32cd6941163c12423a1a6490cfac2"
 
 [[files]]
 file = "config/ruins_config/generic/EmeraldOreOutcrop.tml"
@@ -721,7 +729,7 @@ file = "config/ruins_config/generic/dartiscraft-ancient-outpost-final3.tml"
 hash = "bb3740c913909a8fcc6c10f402a5a597d992ed029b959233c86e0bb08ff067d8"
 
 [[files]]
-file = "config/ruins_config/generic/dartiscraft-birchoutpost-vanillaplus-uru-thor.tml"
+file = "config/ruins_config/generic/dartiscraft-birchoutpost-uru-thor-typevpu.tml"
 hash = "8cb86f4218d956bf2e34f4a9209351948e18db500422d0a6e2de6ecb5389c2d2"
 
 [[files]]
@@ -729,16 +737,16 @@ file = "config/ruins_config/generic/dartiscraft-seedship-final2.tml"
 hash = "369ab0275549adad54791dcd0529c225a6403bc71696cd68358c36c69da5ff6c"
 
 [[files]]
-file = "config/ruins_config/generic/dartiscraft-stargate-typesakyo-final.tml"
-hash = "7d918543d37a3186ecf9313895eab237aa3fde47483f93457da319c1ccbd3326"
+file = "config/ruins_config/generic/dartiscraft-stargate-typevpu.tml"
+hash = "d388aa1d3822dcf7678ee5dec25aec4c039d538190eff17c38ffbc7ee3f2c2ca"
 
 [[files]]
-file = "config/ruins_config/hell/dartiscraft-ancient-repository-cavern-mk9-nether.tml"
-hash = "51bc61e1accd04569a9c3313b2cfe781599a3caa87c039814f5ecf5ed8f23176"
+file = "config/ruins_config/hell/dartiscraft-ancient-repository-cavern-mk9-typevpu-nether.tml"
+hash = "5867d03b4ba090bfa05df3521beb1e6ecf9805fdd837a10275b5a5a36d23b1ce"
 
 [[files]]
-file = "config/ruins_config/hell/taonasg.tml"
-hash = "ad431b81355ef630fc68d2bad9ea994d0d8856cfb2caff1bcf5c51b0b8ea2c7b"
+file = "config/ruins_config/hell/dartiscraft-taonasg-typevpu.tml"
+hash = "f5703193749104ddc066d4128636d62ec112126dfc7ca0410c91ea724d2d89ba"
 
 [[files]]
 file = "config/ruins_config/jungle/JungleThroneWood.tml"
@@ -765,8 +773,12 @@ file = "config/ruins_config/plains/TowerAtlantis.tml"
 hash = "1a15edc9fc50b580a5d22191e3080993ce8a9dcd01ef25cafff11569e5defe3c"
 
 [[files]]
-file = "config/ruins_config/plains/dartiscraft-ancient-repository-cavern-mk9.tml"
-hash = "37ec1b3fa15fbd2a323781356d5c6636465264212f7bfd234ec124dc36b62ea8"
+file = "config/ruins_config/plains/dartiscraft-ancient-repository-cavern-mk9-typevpu.tml"
+hash = "ebefa90cb40208a370acd5093a225e514e1c36bfde38362adcd15cafd767118b"
+
+[[files]]
+file = "config/ruins_config/plains/dartiscraft-xmarksthespot-tnt-vanillaplus-heroesexpansion-injections-typegrass.tml"
+hash = "220018d9e8e456376f89ac954359ac47b1f32cd6941163c12423a1a6490cfac2"
 
 [[files]]
 file = "config/ruins_config/river/dartiscraft-goldrush.tml"
@@ -2703,6 +2715,11 @@ hash = "1d04d252aa0a9593d57f03be6600454662e8a0e9465b1ff0981c6901b650478c"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.toml"
+hash = "f81df5228343875f8bc438eca849c066edfb1e806d1732c3349d55747b94b4ce"
+metafile = true
+
+[[files]]
 file = "mods/ctm.toml"
 hash = "103696c67e5b9720d25ea953b8d3abc25c12db84da61a6e9b7d59232dfed1697"
 metafile = true
@@ -2825,6 +2842,11 @@ metafile = true
 [[files]]
 file = "mods/keeping-inventory.toml"
 hash = "2a1e6a4830da4149b6f4e4eb72e9666096265a9de666829dad59b51b2bcf4795"
+metafile = true
+
+[[files]]
+file = "mods/littletiles.toml"
+hash = "2a9c142d55a3d82495871a08622ce3f25c95ecbbfd9cf2705c127e1797ff3fe3"
 metafile = true
 
 [[files]]

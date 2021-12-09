@@ -1,0 +1,8 @@
+name = "LittleTiles"
+filename = "LittleTiles_v1.5.0-pre199_34_mc1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2968/170/LittleTiles_v1.5.0-pre199_34_mc1.12.2.jar"
+hash-format = "murmur2"
+hash = "449591317"
