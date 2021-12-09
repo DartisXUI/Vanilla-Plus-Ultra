@@ -745,8 +745,8 @@ file = "config/ruins_config/hell/dartiscraft-ancient-repository-cavern-mk9-typev
 hash = "5867d03b4ba090bfa05df3521beb1e6ecf9805fdd837a10275b5a5a36d23b1ce"
 
 [[files]]
-file = "config/ruins_config/hell/dartiscraft-taonasg-typevpu.tml"
-hash = "f5703193749104ddc066d4128636d62ec112126dfc7ca0410c91ea724d2d89ba"
+file = "config/ruins_config/hell/taonasg.tml"
+hash = "ad431b81355ef630fc68d2bad9ea994d0d8856cfb2caff1bcf5c51b0b8ea2c7b"
 
 [[files]]
 file = "config/ruins_config/jungle/JungleThroneWood.tml"
