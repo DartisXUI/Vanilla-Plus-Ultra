@@ -725,6 +725,10 @@ file = "config/ruins_config/plains/CastleModified.tml"
 hash = "8fbddfbf787dff695ee849788766338b9f3164507ab8797f15ef2de03c88b320"
 
 [[files]]
+file = "config/ruins_config/plains/JG_AdventurersInn_CB_Seed_1v12.tml"
+hash = "054b15b6f9e15ae6d1108cd68f190f0bd9e83445169765c4d4eb00e789192dc3"
+
+[[files]]
 file = "config/ruins_config/river/dartiscraft-goldrush.tml"
 hash = "6c2a911697a04b5f89678e14d701ddae530b1dd1728736ed19cee86e958bb05b"
 
@@ -2342,7 +2346,7 @@ hash = "a4f96bcbb9b0c542306aee7c45407bf0b050950214d7f794c4d4678a93472609"
 
 [[files]]
 file = "config/ruins_config/templateparser/TP_VaultShrine.tml"
-hash = "2473752c1c41e80df2983f8a7ff6e9096fd32f38941243fa4c13508dc1a593af"
+hash = "8687883d43316660a7c02eaba68adf20bf18bdd4b0f532c5ec0cb2f0f245130f"
 
 [[files]]
 file = "config/ruins_config/templateparser/TP_VaultSkullArrowHall.tml"
