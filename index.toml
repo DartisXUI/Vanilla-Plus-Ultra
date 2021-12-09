@@ -677,8 +677,20 @@ file = "config/ruins.txt"
 hash = "36725074a365f1dcdfa4d435791dc272161854f7b27775b4014b0d8fd73bc285"
 
 [[files]]
+file = "config/ruins_config/beaches/dartiscraft-lighthouse-tesseract-direct.tml"
+hash = "0987118c36a63a6a947f6e856a0f5f2fec39f452a6d32968be654517d79d999f"
+
+[[files]]
 file = "config/ruins_config/beaches/dartiscraft-xmarksthespot-tnt-vanillaplus-kree-kryptonian.txt"
 hash = "ce7bfb82a56dd4f38c838e040547c10cfa41bbc65cdd2833d7ebcfb241e76f19"
+
+[[files]]
+file = "config/ruins_config/birch_forest_hills/dartiscraft-lighthouse-tesseract-direct.tml"
+hash = "0987118c36a63a6a947f6e856a0f5f2fec39f452a6d32968be654517d79d999f"
+
+[[files]]
+file = "config/ruins_config/desert/dartiscraft-ancient-repository-cavern-mk9-desert.tml"
+hash = "ac0f1c39c9df7df1b5569944936e5271af0cd4c7ade00882bbc48a4296cab81c"
 
 [[files]]
 file = "config/ruins_config/desert/dartiscraft-xmarksthespot-tnt-vanillaplus-kree-kryptonian.txt"
@@ -689,6 +701,14 @@ file = "config/ruins_config/desert_hills/dartiscraft-xmarksthespot-tnt-vanillapl
 hash = "ce7bfb82a56dd4f38c838e040547c10cfa41bbc65cdd2833d7ebcfb241e76f19"
 
 [[files]]
+file = "config/ruins_config/extreme_hills/dartiscraft-stargate-sgcramp-final.tml"
+hash = "26d3a6dc3928cc166212774509944e66b3f8ec0825838279161696dde6a22319"
+
+[[files]]
+file = "config/ruins_config/forest_hills/dartiscraft-lighthouse-tesseract-direct.tml"
+hash = "0987118c36a63a6a947f6e856a0f5f2fec39f452a6d32968be654517d79d999f"
+
+[[files]]
 file = "config/ruins_config/generic/EmeraldOreOutcrop.tml"
 hash = "eb6bc54a0e777ea67a235c13bc84066d86ab7d8cccfc97624ea8625e4fd778b3"
 
@@ -697,16 +717,28 @@ file = "config/ruins_config/generic/OreSpire.tml"
 hash = "b51f60835095741f1db3e85faccc32c90d8e96277b36b29ab49b617376855738"
 
 [[files]]
+file = "config/ruins_config/generic/dartiscraft-ancient-outpost-final3.tml"
+hash = "bb3740c913909a8fcc6c10f402a5a597d992ed029b959233c86e0bb08ff067d8"
+
+[[files]]
 file = "config/ruins_config/generic/dartiscraft-birchoutpost-vanillaplus-uru-thor.tml"
 hash = "8cb86f4218d956bf2e34f4a9209351948e18db500422d0a6e2de6ecb5389c2d2"
 
 [[files]]
-file = "config/ruins_config/generic/dartiscraft-gazebo-chitauri-energy-titanium.tml"
-hash = "b1def97409990949f11bc7d7b0a7fbfcdf4cb65ad6f65ebdb18914adfeff938c"
+file = "config/ruins_config/generic/dartiscraft-seedship-final2.tml"
+hash = "369ab0275549adad54791dcd0529c225a6403bc71696cd68358c36c69da5ff6c"
 
 [[files]]
-file = "config/ruins_config/generic/dartiscraft-gazebo-chitauri-metal-vibranium.tml"
-hash = "789b170a91ada31591f601e39177c21dfa9848796347b55edf4474b33620c700"
+file = "config/ruins_config/generic/dartiscraft-stargate-typesakyo-final.tml"
+hash = "7d918543d37a3186ecf9313895eab237aa3fde47483f93457da319c1ccbd3326"
+
+[[files]]
+file = "config/ruins_config/hell/dartiscraft-ancient-repository-cavern-mk9-nether.tml"
+hash = "51bc61e1accd04569a9c3313b2cfe781599a3caa87c039814f5ecf5ed8f23176"
+
+[[files]]
+file = "config/ruins_config/hell/taonasg.tml"
+hash = "ad431b81355ef630fc68d2bad9ea994d0d8856cfb2caff1bcf5c51b0b8ea2c7b"
 
 [[files]]
 file = "config/ruins_config/jungle/JungleThroneWood.tml"
@@ -727,6 +759,14 @@ hash = "8fbddfbf787dff695ee849788766338b9f3164507ab8797f15ef2de03c88b320"
 [[files]]
 file = "config/ruins_config/plains/JG_AdventurersInn_CB_Seed_1v12.tml"
 hash = "054b15b6f9e15ae6d1108cd68f190f0bd9e83445169765c4d4eb00e789192dc3"
+
+[[files]]
+file = "config/ruins_config/plains/TowerAtlantis.tml"
+hash = "1a15edc9fc50b580a5d22191e3080993ce8a9dcd01ef25cafff11569e5defe3c"
+
+[[files]]
+file = "config/ruins_config/plains/dartiscraft-ancient-repository-cavern-mk9.tml"
+hash = "37ec1b3fa15fbd2a323781356d5c6636465264212f7bfd234ec124dc36b62ea8"
 
 [[files]]
 file = "config/ruins_config/river/dartiscraft-goldrush.tml"
@@ -2514,7 +2554,7 @@ hash = "65681b165b6cbc89250c141668a362084354947897d38583ceaf5fcbadcb0f07"
 
 [[files]]
 file = "config/sgcraft.cfg"
-hash = "a07604cf69c63445e72203b4a97e73c57bf7c8ea22a7ce049207cdd6ba33e015"
+hash = "6f8ca0b1bf70788cf9e6617983e0833f4c2661fcc2b91f93285bbe30086c4028"
 
 [[files]]
 file = "config/simplerpg.cfg"
@@ -2920,6 +2960,11 @@ metafile = true
 [[files]]
 file = "mods/simple-rpg.toml"
 hash = "b1e24d97ccbad657a899609ccea6ae5c6b017bf0a10ca4b3dc8eeee45b045bc0"
+metafile = true
+
+[[files]]
+file = "mods/stargate-network.toml"
+hash = "58ac78a2f830ebe89942eef28fe9df264cb4c7c5110cd0eff159b7bd05f241cf"
 metafile = true
 
 [[files]]

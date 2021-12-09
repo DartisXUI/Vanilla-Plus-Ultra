@@ -1,0 +1,13 @@
+name = "Stargate Network"
+filename = "SGCraft-2.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3044/648/SGCraft-2.0.5.jar"
+hash-format = "murmur2"
+hash = "3238014281"
+
+[update]
+[update.curseforge]
+file-id = 3044648
+project-id = 289115
