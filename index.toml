@@ -729,6 +729,18 @@ file = "config/ruins_config/generic/dartiscraft-ancient-outpost-final3.tml"
 hash = "bb3740c913909a8fcc6c10f402a5a597d992ed029b959233c86e0bb08ff067d8"
 
 [[files]]
+file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3f.tml"
+hash = "4f04a67adf838d4ff0a64c34804bc032f61579917a1e230103f6d982332d5abb"
+
+[[files]]
+file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3l-typevpu.tml"
+hash = "d704ef012873f2ee2b3f33342fec0ab1efb60a2d27c98c71eae801c909afdf69"
+
+[[files]]
+file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3r-typevpu.tml"
+hash = "e40f432eceee5881e4a3ecf2d060a8a9f29c63ea6ad193607db7771630ebed8c"
+
+[[files]]
 file = "config/ruins_config/generic/dartiscraft-birchoutpost-uru-thor-typevpu.tml"
 hash = "8cb86f4218d956bf2e34f4a9209351948e18db500422d0a6e2de6ecb5389c2d2"
 
