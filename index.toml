@@ -746,7 +746,7 @@ hash = "1a15edc9fc50b580a5d22191e3080993ce8a9dcd01ef25cafff11569e5defe3c"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-ancient-outpost--typevpu-final2.tml"
-hash = "14c8317f110e27ed64d8a74228f5b6fa7de3f21fc30781377115d45718750a95"
+hash = "7c69ea51bdb602c5d2d865c5b4a4ec2eb12d947c6a3518cfc5dcf90a60c28a7b"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3f.tml"
@@ -2578,7 +2578,7 @@ hash = "48c30479a88d8407e49de89a63d2d9788f212450d6f765ea2ac34dc046bc64d7"
 
 [[files]]
 file = "config/ruins_config/templateparser/dartiscraft-ancient-outpost--typevpu-final2.tml"
-hash = "14c8317f110e27ed64d8a74228f5b6fa7de3f21fc30781377115d45718750a95"
+hash = "7c69ea51bdb602c5d2d865c5b4a4ec2eb12d947c6a3518cfc5dcf90a60c28a7b"
 
 [[files]]
 file = "config/ruins_config/templateparser/dartiscraft-ancient-repository-cavern-mk9-typevpu-desert-final.tml"
