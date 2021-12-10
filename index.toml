@@ -745,8 +745,8 @@ file = "config/ruins_config/generic/TowerAtlantis.tml"
 hash = "1a15edc9fc50b580a5d22191e3080993ce8a9dcd01ef25cafff11569e5defe3c"
 
 [[files]]
-file = "config/ruins_config/generic/dartiscraft-ancient-outpost-final3.tml"
-hash = "bb3740c913909a8fcc6c10f402a5a597d992ed029b959233c86e0bb08ff067d8"
+file = "config/ruins_config/generic/dartiscraft-ancient-outpost--typevpu-final2.tml"
+hash = "14c8317f110e27ed64d8a74228f5b6fa7de3f21fc30781377115d45718750a95"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3f.tml"
@@ -2577,8 +2577,8 @@ file = "config/ruins_config/templateparser/TP_WaterNSChamber.tml"
 hash = "48c30479a88d8407e49de89a63d2d9788f212450d6f765ea2ac34dc046bc64d7"
 
 [[files]]
-file = "config/ruins_config/templateparser/dartiscraft-ancient-outpost--typevpu-final.tml"
-hash = "aa2a3f473e2e43e907779b987b67c8152fccd7d3afca34fa1d3de472c6d72d57"
+file = "config/ruins_config/templateparser/dartiscraft-ancient-outpost--typevpu-final2.tml"
+hash = "14c8317f110e27ed64d8a74228f5b6fa7de3f21fc30781377115d45718750a95"
 
 [[files]]
 file = "config/ruins_config/templateparser/dartiscraft-ancient-repository-cavern-mk9-typevpu-desert-final.tml"
