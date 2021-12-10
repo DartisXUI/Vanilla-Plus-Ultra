@@ -2565,6 +2565,50 @@ file = "config/ruins_config/templateparser/TP_WaterNSChamber.tml"
 hash = "48c30479a88d8407e49de89a63d2d9788f212450d6f765ea2ac34dc046bc64d7"
 
 [[files]]
+file = "config/ruins_config/templateparser/dartiscraft-ancient-outpost-final3.tml"
+hash = "bb3740c913909a8fcc6c10f402a5a597d992ed029b959233c86e0bb08ff067d8"
+
+[[files]]
+file = "config/ruins_config/templateparser/dartiscraft-ancient-repository-cavern-mk9-typevpu-desert-final.tml"
+hash = "fe2e0781f0ff2dfe4a4c8981f68e6a84852e93ab65f2fe269b8962fa2c9de004"
+
+[[files]]
+file = "config/ruins_config/templateparser/dartiscraft-ancient-repository-cavern-mk9-typevpu-grass-final.tml"
+hash = "ebefa90cb40208a370acd5093a225e514e1c36bfde38362adcd15cafd767118b"
+
+[[files]]
+file = "config/ruins_config/templateparser/dartiscraft-ancient-repository-cavern-mk9-typevpu-nether-final.tml"
+hash = "5867d03b4ba090bfa05df3521beb1e6ecf9805fdd837a10275b5a5a36d23b1ce"
+
+[[files]]
+file = "config/ruins_config/templateparser/dartiscraft-ancient-repository-mk3l-typevpu.tml"
+hash = "92b9d8e5cc3ce6e9567187e8a01e0879cb661cd7658a2e87009b9d16ac6ba22d"
+
+[[files]]
+file = "config/ruins_config/templateparser/dartiscraft-ancient-repository-mk3r-typevpu.tml"
+hash = "1663fba9bdab4e95a7a6fa07b93db5260c2d3d28f66c306fd6b264340aea6f84"
+
+[[files]]
+file = "config/ruins_config/templateparser/dartiscraft-lighthouse-tesseract-direct.tml"
+hash = "0987118c36a63a6a947f6e856a0f5f2fec39f452a6d32968be654517d79d999f"
+
+[[files]]
+file = "config/ruins_config/templateparser/dartiscraft-taonasg-typevpu.tml"
+hash = "f5703193749104ddc066d4128636d62ec112126dfc7ca0410c91ea724d2d89ba"
+
+[[files]]
+file = "config/ruins_config/templateparser/dartiscraft-xmarksthespot-tnt-vanillaplus-heroesexpansion-injections-typegrass.tml"
+hash = "220018d9e8e456376f89ac954359ac47b1f32cd6941163c12423a1a6490cfac2"
+
+[[files]]
+file = "config/ruins_config/templateparser/dartiscraft-xmarksthespot-tnt-vanillaplus-heroesexpansion-injections-typesand.tml"
+hash = "00ba8781f7a8096460c0271737bf6aecb428e93fb233e4c8c8947125c9af1d2c"
+
+[[files]]
+file = "config/ruins_config/templateparser/lootchestideas.tml"
+hash = "5be3c31523380603c3bb0713fa5cadd7a620e292d90d13779e3eeb6d7e039847"
+
+[[files]]
 file = "config/ruins_config/templateparser/observertest.tml"
 hash = "b1c905a8dce98cd8b896eb5f20d2559c09f80b5cb28ff84e76020aeffedf5e38"
 
