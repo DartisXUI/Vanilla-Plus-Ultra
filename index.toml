@@ -2923,6 +2923,11 @@ hash = "f546165b25cd3361f6530881dfb372474a04921ad2ef6f3c7a82fe6f7f6e40bc"
 metafile = true
 
 [[files]]
+file = "mods/malisiscore.toml"
+hash = "2f6173edbd14154e3ab4ef73f5ef686f7cdb91339875159a41107a5937db9b6a"
+metafile = true
+
+[[files]]
 file = "mods/mantle.toml"
 hash = "750e15bc8a8092318669fda0b179892a1be2ac65dc37e888d6586543e31c5471"
 metafile = true
