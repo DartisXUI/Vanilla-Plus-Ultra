@@ -238,7 +238,7 @@ hash = "8e19adc8a921f3a656b216d5023ed022a22c43fac91299d19f1cfed61fe89c64"
 
 [[files]]
 file = "config/cofh/world/config.cfg"
-hash = "7cd72fb3b8cae95058e33b07656982c34769122975e0208d38f163e01d32bf02"
+hash = "afe3fce5ad545443aff3d2b78c49617c2a87bfea31343afcb61c44baa1071963"
 
 [[files]]
 file = "config/conarm.cfg"
@@ -658,7 +658,7 @@ hash = "6b707d828c47466de96d8577f8939f80b1f43ec6ba493c3e6ca9d2893cad623d"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "04fe3bef4c7cd3f421a3373892adb2c121ba5632a89bfda3ed47e644a8605f18"
+hash = "7fa94f3284979815939bae58ef82c2b9319db875c98268f7cdcbc81902cb7562"
 
 [[files]]
 file = "config/rangedpumps.cfg"
