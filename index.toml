@@ -658,7 +658,7 @@ hash = "6b707d828c47466de96d8577f8939f80b1f43ec6ba493c3e6ca9d2893cad623d"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "61d6bf1f9a97cc246f2ffacee6c7474a42007d310acb3b4b33b80f01ef9f15f0"
+hash = "04fe3bef4c7cd3f421a3373892adb2c121ba5632a89bfda3ed47e644a8605f18"
 
 [[files]]
 file = "config/rangedpumps.cfg"
@@ -3134,7 +3134,7 @@ metafile = true
 
 [[files]]
 file = "mods/wanionlib.toml"
-hash = "f95e668b8435c3ca582cebaba6651a3ef28b2931ef5bd88d20a80723556626e5"
+hash = "749a9dcf92fe5fcbe0a47ff82ab77c63ab860126db0eb733e9dcd314aed1a193"
 metafile = true
 
 [[files]]
