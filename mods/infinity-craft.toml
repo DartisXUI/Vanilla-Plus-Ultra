@@ -1,0 +1,13 @@
+name = "Infinity Craft"
+filename = "infinity-1.12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2944/457/infinity-1.12.jar"
+hash-format = "murmur2"
+hash = "393825249"
+
+[update]
+[update.curseforge]
+file-id = 2944457
+project-id = 285509
