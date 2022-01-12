@@ -1,32 +1,6 @@
 {
-	"dependencies": "thermalfoundation","lucraftcore"
+	"dependencies": "thermalfoundation",
 	"populate": {
-		"uru":[
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "lucraftcore:ore_uru",
-					"properties": {
-						"type": "uru"
-					}
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 8
-			},
-			"cluster-count": 8,
-			"min-height": 3,
-			"max-height": 12,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "blacklist",
-				"value": [
-					-1,
-					1
-				]
-			}
-		},
 		"copper": {
 			"enabled": "true",
 			"distribution": "uniform",

@@ -86,7 +86,7 @@ hash = "6ecfbc51c9e98aa905a93516c177d881e282a6f99faa66d93f6e21cbef5085fe"
 
 [[files]]
 file = "config/cofh/world/01_thermalfoundation_ores.json"
-hash = "9e38f82ac8766ecccad4cf3087b155b3552fd0d4b5df9167930759927e672247"
+hash = "a7f5a5b4a01102b839089e40fb2dbad4709dd208b64f4d7de9495afa226328e0"
 
 [[files]]
 file = "config/cofh/world/02_thermalfoundation_oil.json"
