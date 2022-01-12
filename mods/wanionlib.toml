@@ -1,14 +1,14 @@
 name = "WanionLib"
-filename = "WanionLib-1.12.2-2.7.jar"
+filename = "WanionLib-1.12.2-2.9.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3558/524/WanionLib-1.12.2-2.7.jar"
+url = "https://edge.forgecdn.net/files/3597/87/WanionLib-1.12.2-2.9.jar"
 hash-format = "murmur2"
-hash = "3486510525"
+hash = "1042846804"
 
 [update]
 [update.curseforge]
-file-id = 3558524
+file-id = 3597087
 project-id = 253043
 release-channel = "beta"

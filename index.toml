@@ -2223,7 +2223,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "1d04d252aa0a9593d57f03be6600454662e8a0e9465b1ff0981c6901b650478c"
+hash = "4f810499582ff50efa257d48f915269e321708777bfc2f4452bd5910d253a0ae"
 metafile = true
 
 [[files]]
@@ -2443,7 +2443,7 @@ metafile = true
 
 [[files]]
 file = "mods/prefab.toml"
-hash = "841687491d08965f0e284dc8b8695177595acbf074bd12fb245cbb2eddac0db2"
+hash = "90d6b83c1f2a480ee81c153739dc981a7a7409948bebd679a75b1df3981f66b4"
 metafile = true
 
 [[files]]
@@ -2583,7 +2583,7 @@ metafile = true
 
 [[files]]
 file = "mods/wanionlib.toml"
-hash = "749a9dcf92fe5fcbe0a47ff82ab77c63ab860126db0eb733e9dcd314aed1a193"
+hash = "c487d8b82e26dc0144073f5ea2bb4036deca432b404420e0524950f0dedc0427"
 metafile = true
 
 [[files]]
