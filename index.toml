@@ -2168,7 +2168,7 @@ metafile = true
 
 [[files]]
 file = "mods/bibliocraft.toml"
-hash = "26285295658fc5fe3ce97b8dea28d560792ced9fa728fb2fa557eb6374f2ee34"
+hash = "32b72b7d84f8ccab4e09b1f709d67c35de4b1d9cb6e5e508f72493f68866d85d"
 metafile = true
 
 [[files]]
@@ -2223,7 +2223,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "4f810499582ff50efa257d48f915269e321708777bfc2f4452bd5910d253a0ae"
+hash = "1549a5ff1b070e832bcbad17a4967abd75f4f642405a3eba4ccad3acbb886271"
 metafile = true
 
 [[files]]
@@ -2593,7 +2593,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "cdacb910a3f6154953d5e3065f730edca7d3a1975b9d76b6d7166041a67e7ba4"
+hash = "3b658566b1d5b1340c9731d23809eb1cea91b8622525a8436a6fb106c86d4309"
 
 [[files]]
 file = "scripts/recipes.zs"
