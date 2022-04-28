@@ -2168,7 +2168,7 @@ metafile = true
 
 [[files]]
 file = "mods/bibliocraft.toml"
-hash = "32b72b7d84f8ccab4e09b1f709d67c35de4b1d9cb6e5e508f72493f68866d85d"
+hash = "e044cdd2566845b863697df3cc53adf0ab38432d5d0814696f8abb2f79a47ccf"
 metafile = true
 
 [[files]]
