@@ -2122,6 +2122,11 @@ hash = "193d6adbc670f1955f47b34ef43e7c234994d12955a2b9999029b47b35475b5a"
 metafile = true
 
 [[files]]
+file = "mods/actually-additions.toml"
+hash = "38cc19b90956fb96905593642e41ff651040f96b8002048ac0f9813b7a90cad3"
+metafile = true
+
+[[files]]
 file = "mods/additional-lights.toml"
 hash = "f46bc720591a1e228a53feeb7728330f932060a977cc65ca316801d0fea43d73"
 metafile = true

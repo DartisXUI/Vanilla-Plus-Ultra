@@ -1,0 +1,13 @@
+name = "Actually Additions"
+filename = "ActuallyAdditions-1.12.2-r152.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3117/927/ActuallyAdditions-1.12.2-r152.jar"
+hash-format = "murmur2"
+hash = "1923394747"
+
+[update]
+[update.curseforge]
+file-id = 3117927
+project-id = 228404
