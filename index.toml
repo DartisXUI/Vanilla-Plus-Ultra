@@ -134,7 +134,7 @@ hash = "0284a131fd9b28555ae0e2c90ba91c336a501199a864705f641f9c64276e9d13"
 
 [[files]]
 file = "config/orecore.cfg"
-hash = "efe91ddf38b7d53071e034f196b1ddada65cc708b81ff075b38a901e6f40abb0"
+hash = "1ccb22a2d1eecaddbb1494c6627f668d12d679d55289acf06a89a4b608e5b6cc"
 
 [[files]]
 file = "config/quark.cfg"
