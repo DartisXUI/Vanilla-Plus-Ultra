@@ -2337,6 +2337,11 @@ hash = "27ac888fb6b020e5f89cb155c4c019da1d751b45c52c6dabb6b5c0acd1ba9123"
 metafile = true
 
 [[files]]
+file = "mods/jei-hider.toml"
+hash = "af49be434d92afd41c6073cf769d0db2adc2e28d2f5734938d5f967711d2d916"
+metafile = true
+
+[[files]]
 file = "mods/jei-integration.toml"
 hash = "5d1f363d9a6daed54fd0d8b30a5951f4d63ecba4e3617a5e442b87d535f42130"
 metafile = true
@@ -2601,5 +2606,5 @@ file = "options.txt"
 hash = "3b658566b1d5b1340c9731d23809eb1cea91b8622525a8436a6fb106c86d4309"
 
 [[files]]
-file = "scripts/jei.zs"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "scripts/recipes.zs"
+hash = "26a8b5c2c49f77db88d9e3aa52b62b98e5f99e9a35e407144c9ca989a851e53b"
