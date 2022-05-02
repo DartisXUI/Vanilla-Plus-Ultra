@@ -125,6 +125,10 @@ file = "config/huntingdim/world_generator_settings.json"
 hash = "dcc59820b64296d6adddc36a6bc3064b1e3136ed8c8115b57f46a9afb1720b08"
 
 [[files]]
+file = "config/jei/itemBlacklist.cfg"
+hash = "faf20a8a19cec4874bb075fa9115e684504ccf06f58dff4397f25f09c80f8e15"
+
+[[files]]
 file = "config/lucraftcore.cfg"
 hash = "4e7e90fde87400212489b9f20ba8f7225396e26cc48435ca1c0bdb55036500b9"
 
@@ -134,7 +138,7 @@ hash = "0284a131fd9b28555ae0e2c90ba91c336a501199a864705f641f9c64276e9d13"
 
 [[files]]
 file = "config/orecore.cfg"
-hash = "1ccb22a2d1eecaddbb1494c6627f668d12d679d55289acf06a89a4b608e5b6cc"
+hash = "805e2832563d93b8c82f5e532d65e919ff1920f3ab54a144439c05f4090481c5"
 
 [[files]]
 file = "config/quark.cfg"
@@ -2337,11 +2341,6 @@ hash = "27ac888fb6b020e5f89cb155c4c019da1d751b45c52c6dabb6b5c0acd1ba9123"
 metafile = true
 
 [[files]]
-file = "mods/jei-hider.toml"
-hash = "af49be434d92afd41c6073cf769d0db2adc2e28d2f5734938d5f967711d2d916"
-metafile = true
-
-[[files]]
 file = "mods/jei-integration.toml"
 hash = "5d1f363d9a6daed54fd0d8b30a5951f4d63ecba4e3617a5e442b87d535f42130"
 metafile = true
@@ -2607,4 +2606,4 @@ hash = "3b658566b1d5b1340c9731d23809eb1cea91b8622525a8436a6fb106c86d4309"
 
 [[files]]
 file = "scripts/recipes.zs"
-hash = "26a8b5c2c49f77db88d9e3aa52b62b98e5f99e9a35e407144c9ca989a851e53b"
+hash = "73add5b8a4a04271cdd2cced5aa6edb1014481df5d7df8834b5195cf1ee1b2ca"
