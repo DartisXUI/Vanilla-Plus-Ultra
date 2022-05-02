@@ -2367,11 +2367,6 @@ hash = "2a1e6a4830da4149b6f4e4eb72e9666096265a9de666829dad59b51b2bcf4795"
 metafile = true
 
 [[files]]
-file = "mods/kubejs.toml"
-hash = "df5758a97ca87c6fa55c34bd8fbb5c0ed179a493f1292c2d7b56f55144f033e4"
-metafile = true
-
-[[files]]
 file = "mods/littletiles.toml"
 hash = "2a9c142d55a3d82495871a08622ce3f25c95ecbbfd9cf2705c127e1797ff3fe3"
 metafile = true
@@ -2606,5 +2601,5 @@ file = "options.txt"
 hash = "3b658566b1d5b1340c9731d23809eb1cea91b8622525a8436a6fb106c86d4309"
 
 [[files]]
-file = "scripts/recipes.zs"
-hash = "81e0e629cb8240dd7b9ad7e1e992b51f0b0146bc82901ab11249f3a0a2b591fe"
+file = "scripts/jei.zs"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
