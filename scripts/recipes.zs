@@ -2,6 +2,7 @@
 //Don't touch me!
 //#Remove
 recipes.removeByMod("enderio");  
+recipes.removeByMod("actuallyadditions");   
 //Don't touch me!
 //#Add
 recipes.addShapeless(<lucraftcore:ore_uranium>, [<orecore:uranium_ore>]);
