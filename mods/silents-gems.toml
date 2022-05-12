@@ -1,0 +1,13 @@
+name = "Silent's Gems"
+filename = "SilentsGems-1.12.2-2.8.22+327.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2804/966/SilentsGems-1.12.2-2.8.22+327.jar"
+hash-format = "murmur2"
+hash = "2906374988"
+
+[update]
+[update.curseforge]
+file-id = 2804966
+project-id = 220311

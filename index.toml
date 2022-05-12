@@ -2511,6 +2511,26 @@ hash = "7ccfb0cd3188d1033d794f18886b2d743022fd3733076769d40a2cab40f77216"
 metafile = true
 
 [[files]]
+file = "mods/silent-lib.toml"
+hash = "c3efb48f538ff6bbf4b23e2b13da050c9559a0c2911ce10134c66f7c7bcbf0e6"
+metafile = true
+
+[[files]]
+file = "mods/silents-gems-extra-parts.toml"
+hash = "a6150e74be0f747f0ff2b8a21b2b9abdf6247af4de23b20e3313192ec8813885"
+metafile = true
+
+[[files]]
+file = "mods/silents-gems-tic-support.toml"
+hash = "7b969ebd0581437cbff1bc56d35bfe5bac53026c4556ae05d50f39a596536fed"
+metafile = true
+
+[[files]]
+file = "mods/silents-gems.toml"
+hash = "8c6ec71337777dc2d55bc0b79ad66b66c3bb98cd6d4e706d88e6a5331a106034"
+metafile = true
+
+[[files]]
 file = "mods/simple-rpg.toml"
 hash = "b1e24d97ccbad657a899609ccea6ae5c6b017bf0a10ca4b3dc8eeee45b045bc0"
 metafile = true

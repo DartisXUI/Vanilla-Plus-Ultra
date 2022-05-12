@@ -1,0 +1,13 @@
+name = "Silent's Gems - TiC Support"
+filename = "SilentsGems-TiC-1.12.2-0.1.1-5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2605/909/SilentsGems-TiC-1.12.2-0.1.1-5.jar"
+hash-format = "murmur2"
+hash = "2342950051"
+
+[update]
+[update.curseforge]
+file-id = 2605909
+project-id = 299343
