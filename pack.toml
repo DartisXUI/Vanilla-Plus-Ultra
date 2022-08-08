@@ -1,10 +1,10 @@
 name = "Dartis-Craft-Vanilla-Plus-Ultra-1.12.2"
-pack-format = "packwiz:1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6b50b5b1d9addaf13d24d476edd556122c2136a90c919705375eefdba1e69fee"
+hash = "ae6642edf2748ee00862129890c6473ddc9c1aeff9d5f88fb2746a14e29b7c8a"
 
 [versions]
 forge = "14.23.5.2854"

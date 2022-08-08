@@ -2177,7 +2177,7 @@ metafile = true
 
 [[files]]
 file = "mods/bibliocraft.toml"
-hash = "5092b8bc67e08f81248f0aeffdf422a5aca420bc40d520ce77d83d3e9acc5de4"
+hash = "3b669776ab642f3337508261ea99c45ae5cccbf9beb3df8fc02819a64a984635"
 metafile = true
 
 [[files]]
@@ -2232,7 +2232,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "1549a5ff1b070e832bcbad17a4967abd75f4f642405a3eba4ccad3acbb886271"
+hash = "d4bdfce484a5321a5a8a8a01037eecd35a49f17911b6339ddcd7b45b9cf55c0e"
 metafile = true
 
 [[files]]
@@ -2377,7 +2377,7 @@ metafile = true
 
 [[files]]
 file = "mods/lucraft-core.toml"
-hash = "f546165b25cd3361f6530881dfb372474a04921ad2ef6f3c7a82fe6f7f6e40bc"
+hash = "21e0c5838adbd3a7c3e41236611860e0307664ff260899b4fff63df546cfe6f2"
 metafile = true
 
 [[files]]

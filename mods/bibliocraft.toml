@@ -1,14 +1,14 @@
 name = "BiblioCraft"
-filename = "BiblioCraftv2.4.5MC1.12.2.jar"
+filename = "BiblioCraft[v2.4.6][MC1.12.2].jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2574/880/BiblioCraft%5Bv2.4.5%5D%5BMC1.12.2%5D.jar"
-hash-format = "murmur2"
-hash = "1344933848"
+hash-format = "sha1"
+hash = "6eb72c2a6b9d202e53e760e26048c230cd2ca5da"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 2574880
+file-id = 3647708
 project-id = 228027
 release-channel = "beta"
