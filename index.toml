@@ -2516,8 +2516,18 @@ hash = "c3efb48f538ff6bbf4b23e2b13da050c9559a0c2911ce10134c66f7c7bcbf0e6"
 metafile = true
 
 [[files]]
+file = "mods/silents-gems-extra-parts.pw.toml"
+hash = "6977c9087ebdcc2180c5a98e2c62ede43c80e037937b26e8da710f9858319984"
+metafile = true
+
+[[files]]
 file = "mods/silents-gems-extra-parts.toml"
 hash = "a6150e74be0f747f0ff2b8a21b2b9abdf6247af4de23b20e3313192ec8813885"
+metafile = true
+
+[[files]]
+file = "mods/silents-gems-tic-support.pw.toml"
+hash = "55cb052c184a514cc6a13aa0f4fed6e0c4779689cf53d9b83908f08ad4e54ddc"
 metafile = true
 
 [[files]]
