@@ -2232,7 +2232,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "4f75821368cf5ee44f277870bbe9254d04d92b445f78e999662d8eadc43c625f"
+hash = "43c9b4e966de3ab8b7ecbb3d32393a3ef28aaa80c6707d7eb2575e36611d76de"
 metafile = true
 
 [[files]]
@@ -2347,7 +2347,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "a13e7ffb803c1864cbb515a5511300f2a70c0f344455b0e501c59fe1225baa27"
+hash = "1bb893e7cff1dd5f50f3abe3ce9fd0b65b7e994f16f05303dac09bc77723851a"
 metafile = true
 
 [[files]]
@@ -2477,7 +2477,7 @@ metafile = true
 
 [[files]]
 file = "mods/recurrent-complex.toml"
-hash = "d26399d69d8b1294e6a541e2aff7520b532c77c75957d0caa03ee8c013c22efa"
+hash = "86b9a773a87aadaa5fe0bde1bbab714d796febf5e73731fd72556df4b0b5f630"
 metafile = true
 
 [[files]]
