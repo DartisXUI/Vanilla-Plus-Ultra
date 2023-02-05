@@ -2237,7 +2237,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.toml"
-hash = "f81df5228343875f8bc438eca849c066edfb1e806d1732c3349d55747b94b4ce"
+hash = "2676bfac716c4970e7cb978611cb21ebc365c461569e06a918442ccd02968c22"
 metafile = true
 
 [[files]]
@@ -2372,7 +2372,7 @@ metafile = true
 
 [[files]]
 file = "mods/littletiles.toml"
-hash = "2a9c142d55a3d82495871a08622ce3f25c95ecbbfd9cf2705c127e1797ff3fe3"
+hash = "e203fa6b60a92b70db008972e810efaf2520ee2fd8ef8920bdc4b43204337787"
 metafile = true
 
 [[files]]
