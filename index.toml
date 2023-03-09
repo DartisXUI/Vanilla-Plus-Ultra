@@ -2191,11 +2191,6 @@ hash = "7c7d4da458ab082669f11975bad5fda167877dbabf8775eef22a8e230424831a"
 metafile = true
 
 [[files]]
-file = "mods/building-gadgets.toml"
-hash = "900bb218406480dc270fe0f42f1f0e66c52ae5a85d8934c404d10ce64e803354"
-metafile = true
-
-[[files]]
 file = "mods/chisel.toml"
 hash = "52435fe963476b68456801103ac73a53d31de8af03df7d3c1fc069c88dda9627"
 metafile = true
@@ -2222,7 +2217,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.toml"
-hash = "9e95e85e1901f88818d6c18d82d68ea4342206979ad861f884299e241ad4b195"
+hash = "0d6400d3bb492d416e73bc8b001c84e750a595aae7dd49ff8bd30ba1a3cf4d5b"
 metafile = true
 
 [[files]]
@@ -2232,7 +2227,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "e8f8f8c08b1d4008f4e926a21928304266862d125d2d814191560b91d5297b62"
+hash = "7e41e1dbd458078950b341bdf04bdc30918086c3d197b1d1c576eab2aa007df4"
 metafile = true
 
 [[files]]
@@ -2347,7 +2342,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "1bb893e7cff1dd5f50f3abe3ce9fd0b65b7e994f16f05303dac09bc77723851a"
+hash = "b7505c0565ff036bc4a5ffdf3d362a31e115021378f2fa299293f9c862b6abfb"
 metafile = true
 
 [[files]]
@@ -2372,7 +2367,7 @@ metafile = true
 
 [[files]]
 file = "mods/littletiles.toml"
-hash = "e203fa6b60a92b70db008972e810efaf2520ee2fd8ef8920bdc4b43204337787"
+hash = "a2418551d4c84984d92c73244bbfa7b9190abdc197fd7e8f81b46cfac5483ddf"
 metafile = true
 
 [[files]]
@@ -2452,7 +2447,7 @@ metafile = true
 
 [[files]]
 file = "mods/prefab.toml"
-hash = "90d6b83c1f2a480ee81c153739dc981a7a7409948bebd679a75b1df3981f66b4"
+hash = "e83f5ac7925f88cfd934a9fc423253d0e9b39da453b8e835ccad473cd1998cce"
 metafile = true
 
 [[files]]
